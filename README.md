@@ -1,2 +1,3 @@
 # wagtail-localize-foundation-l10n
-Temporary repository to test Wagtail-Localize/Pontoon integration for the localization uplift on foundation.mozilla.org
+
+This is a temporary repository set up in order to test [Wagtail Localize](https://www.wagtail-localize.org/)/[Pontoon](https://pontoon.mozilla.org/) integration for the wagtail-localize uplift of https://foundation.mozilla.org
