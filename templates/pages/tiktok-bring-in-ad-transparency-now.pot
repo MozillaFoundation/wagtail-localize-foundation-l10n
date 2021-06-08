@@ -42,3 +42,7 @@ msgstr ""
 msgctxt "body.3393fccf-aa3e-4c66-a059-e2a4c2750968"
 msgid "And this is a new line."
 msgstr ""
+
+msgctxt "body.3393fccf-aa3e-4c66-a059-e2a4c2750968"
+msgid "And a new one!"
+msgstr ""

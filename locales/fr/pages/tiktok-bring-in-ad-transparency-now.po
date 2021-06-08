@@ -63,6 +63,10 @@ msgctxt "body.3393fccf-aa3e-4c66-a059-e2a4c2750968"
 msgid "And this is a new line."
 msgstr "Et voici une nouvelle ligne."
 
+msgctxt "body.3393fccf-aa3e-4c66-a059-e2a4c2750968"
+msgid "And a new one!"
+msgstr ""
+
 #~ msgctxt "body.3393fccf-aa3e-4c66-a059-e2a4c2750968"
 #~ msgid ""
 #~ "TikTok may be ahead of the trends when it  comes to viral hashtag challenges but they’re falling dangerously behind  other social media platforms in preventing disinformation and dark  money "
