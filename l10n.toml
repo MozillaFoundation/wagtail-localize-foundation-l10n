@@ -1,6 +1,2 @@
 locales = [ "de", "es", "fr", "fy-NL", "nl", "pl", "pt",]
-[[paths]]
-reference = "templates/pages/tiktok-bring-in-ad-transparency-now.pot"
-l10n = "locales/{locale}/pages/tiktok-bring-in-ad-transparency-now.po"
-locales = [ "de", "es", "fr", "pl", "pt",]
-
+paths = []
