@@ -1,2 +1,6 @@
 locales = [ "de", "es", "fr", "fy-NL", "nl", "pl", "pt",]
-paths = []
+[[paths]]
+reference = "templates/pages/home/blog/mozilla-explains-why-does-youtube-recommend-conspiracy-theory-videos.pot"
+l10n = "locales/{locale}/pages/home/blog/mozilla-explains-why-does-youtube-recommend-conspiracy-theory-videos.po"
+locales = [ "de", "es", "fr", "fy-NL", "nl", "pl", "pt",]
+
