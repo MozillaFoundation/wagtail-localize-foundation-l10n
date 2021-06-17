@@ -28,7 +28,7 @@ msgstr "vvdsc"
 
 msgctxt "hero_headline"
 msgid "TikTok: Provide Ad Transparency Now"
-msgstr "Pour une transparence totale sur TikTok, et cette traduction est vraiment trop longue, mais vraiment trop. Ça dégoute."
+msgstr "Pour une transparence totale sur TikTok"
 
 msgctxt "hero_button_text"
 msgid "Sign The Petition"
