@@ -6,8 +6,8 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "X-WagtailLocalize-TranslationID: 87a4ab9b-d2fc-4b92-9d32-25c1d62286e2\n"
 
-msgctxt "name"
-msgid "TikTok petition"
+msgctxt "thank_you"
+msgid "Thank you for signing!"
 msgstr ""
 
 msgctxt "header"
@@ -16,28 +16,4 @@ msgstr ""
 
 msgctxt "description"
 msgid "Tell TikTok to bring in ad transparency now—before it’s too late."
-msgstr ""
-
-msgctxt "newsletter"
-msgid "mozilla-foundation"
-msgstr ""
-
-msgctxt "campaign_id"
-msgid "7014x0000001RbsAAE"
-msgstr ""
-
-msgctxt "share_twitter"
-msgid "sp_218082"
-msgstr ""
-
-msgctxt "share_facebook"
-msgid "sp_218081"
-msgstr ""
-
-msgctxt "share_email"
-msgid "sp_218080"
-msgstr ""
-
-msgctxt "thank_you"
-msgid "Thank you for signing!"
 msgstr ""
