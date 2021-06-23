@@ -1,92 +1,7 @@
 locales = [ "de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR",]
 [[paths]]
-reference = "templates/pages/homepage/privacynotincluded.pot"
-l10n = "locales/{locale}/pages/homepage/privacynotincluded.po"
-locales = [ "de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR",]
-
-[[paths]]
-reference = "templates/pages/homepage/what-we-do.pot"
-l10n = "locales/{locale}/pages/homepage/what-we-do.po"
-locales = [ "de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR",]
-
-[[paths]]
-reference = "templates/pages/homepage/advocacy.pot"
-l10n = "locales/{locale}/pages/homepage/advocacy.po"
-locales = [ "de", "es", "fr", "pt-BR",]
-
-[[paths]]
-reference = "templates/pages/homepage/who-we-are.pot"
-l10n = "locales/{locale}/pages/homepage/who-we-are.po"
-locales = [ "de", "es", "fr", "fy-NL", "nl", "pt-BR",]
-
-[[paths]]
-reference = "templates/snippets/wagtailpages.FocusArea/1-rally-citizens.pot"
-l10n = "locales/{locale}/snippets/wagtailpages.FocusArea/1-rally-citizens.po"
-locales = [ "de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR",]
-
-[[paths]]
-reference = "templates/snippets/wagtailpages.FocusArea/2-connect-leaders.pot"
-l10n = "locales/{locale}/snippets/wagtailpages.FocusArea/2-connect-leaders.po"
-locales = [ "de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR",]
-
-[[paths]]
-reference = "templates/snippets/wagtailpages.FocusArea/3-shape-the-agenda.pot"
-l10n = "locales/{locale}/snippets/wagtailpages.FocusArea/3-shape-the-agenda.po"
-locales = [ "de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR",]
-
-[[paths]]
-reference = "templates/pages/homepage.pot"
-l10n = "locales/{locale}/pages/homepage.po"
-locales = [ "de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR",]
-
-[[paths]]
-reference = "templates/pages/homepage/blog/zoom-makes-right-call-encryption.pot"
-l10n = "locales/{locale}/pages/homepage/blog/zoom-makes-right-call-encryption.po"
-locales = [ "de",]
-
-[[paths]]
-reference = "templates/pages/homepage/blog/tips-make-your-zoom-gatherings-more-private.pot"
-l10n = "locales/{locale}/pages/homepage/blog/tips-make-your-zoom-gatherings-more-private.po"
-locales = [ "de",]
-
-[[paths]]
-reference = "templates/pages/homepage/privacynotincluded/happn.pot"
-l10n = "locales/{locale}/pages/homepage/privacynotincluded/happn.po"
-locales = [ "de",]
-
-[[paths]]
-reference = "templates/pages/homepage/newsletter.pot"
-l10n = "locales/{locale}/pages/homepage/newsletter.po"
-locales = [ "de", "es", "fr", "pt-BR",]
-
-[[paths]]
-reference = "templates/snippets/wagtailpages.Signup/35-minimalist-signup-snippet.pot"
-l10n = "locales/{locale}/snippets/wagtailpages.Signup/35-minimalist-signup-snippet.po"
-locales = [ "de", "es", "fr", "pt-BR",]
-
-[[paths]]
-reference = "templates/pages/homepage/blog.pot"
-l10n = "locales/{locale}/pages/homepage/blog.po"
-locales = [ "de", "es", "fr", "fy-NL", "nl", "pt-BR",]
-
-[[paths]]
-reference = "templates/pages/homepage/campaigns/tiktok-political-ads/introduction.pot"
-l10n = "locales/{locale}/pages/homepage/campaigns/tiktok-political-ads/introduction.po"
-locales = [ "de",]
-
-[[paths]]
-reference = "templates/pages/homepage/campaigns/tiktok-political-ads/executive-summary.pot"
-l10n = "locales/{locale}/pages/homepage/campaigns/tiktok-political-ads/executive-summary.po"
-locales = [ "de",]
-
-[[paths]]
 reference = "templates/snippets/wagtailpages.DonationModal/1-privacy_donate_modal.pot"
 l10n = "locales/{locale}/snippets/wagtailpages.DonationModal/1-privacy_donate_modal.po"
-locales = [ "de",]
-
-[[paths]]
-reference = "templates/pages/homepage/campaigns/tiktok-political-ads/tiktoks-policies.pot"
-l10n = "locales/{locale}/pages/homepage/campaigns/tiktok-political-ads/tiktoks-policies.po"
 locales = [ "de",]
 
 [[paths]]
@@ -105,13 +20,13 @@ l10n = "locales/{locale}/pages/homepage/campaigns/tiktok-political-ads/conclusio
 locales = [ "de",]
 
 [[paths]]
-reference = "templates/pages/homepage/campaigns/tiktok-bring-in-ad-transparency-now.pot"
-l10n = "locales/{locale}/pages/homepage/campaigns/tiktok-bring-in-ad-transparency-now.po"
+reference = "templates/pages/homepage/campaigns/tiktok-political-ads/about-the-methodology.pot"
+l10n = "locales/{locale}/pages/homepage/campaigns/tiktok-political-ads/about-the-methodology.po"
 locales = [ "de",]
 
 [[paths]]
-reference = "templates/pages/homepage/campaigns/tiktok-political-ads/about-the-methodology.pot"
-l10n = "locales/{locale}/pages/homepage/campaigns/tiktok-political-ads/about-the-methodology.po"
+reference = "templates/pages/homepage/campaigns/tiktok-bring-in-ad-transparency-now.pot"
+l10n = "locales/{locale}/pages/homepage/campaigns/tiktok-bring-in-ad-transparency-now.po"
 locales = [ "de",]
 
 [[paths]]
@@ -125,14 +40,34 @@ l10n = "locales/{locale}/pages/homepage/campaigns/tiktok-political-ads.po"
 locales = [ "de",]
 
 [[paths]]
+reference = "templates/pages/homepage/what-we-do.pot"
+l10n = "locales/{locale}/pages/homepage/what-we-do.po"
+locales = [ "de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR",]
+
+[[paths]]
 reference = "templates/pages/homepage/blog/youtube-regrets.pot"
 l10n = "locales/{locale}/pages/homepage/blog/youtube-regrets.po"
 locales = [ "de", "es", "fr", "pt-BR",]
 
 [[paths]]
-reference = "templates/snippets/wagtailpages.Petition/90-tiktok-petition.pot"
-l10n = "locales/{locale}/snippets/wagtailpages.Petition/90-tiktok-petition.po"
-locales = [ "de",]
+reference = "templates/pages/homepage/who-we-are.pot"
+l10n = "locales/{locale}/pages/homepage/who-we-are.po"
+locales = [ "de", "es", "fr", "fy-NL", "nl", "pt-BR",]
+
+[[paths]]
+reference = "templates/snippets/wagtailpages.FocusArea/1-rally-citizens.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.FocusArea/1-rally-citizens.po"
+locales = [ "de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR",]
+
+[[paths]]
+reference = "templates/snippets/wagtailpages.FocusArea/3-shape-the-agenda.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.FocusArea/3-shape-the-agenda.po"
+locales = [ "de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR",]
+
+[[paths]]
+reference = "templates/snippets/wagtailpages.FocusArea/2-connect-leaders.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.FocusArea/2-connect-leaders.po"
+locales = [ "de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR",]
 
 [[paths]]
 reference = "templates/pages/homepage/campaigns/youtube-regrets-about.pot"
@@ -140,9 +75,44 @@ l10n = "locales/{locale}/pages/homepage/campaigns/youtube-regrets-about.po"
 locales = [ "de", "es", "fr",]
 
 [[paths]]
+reference = "templates/pages/homepage/advocacy.pot"
+l10n = "locales/{locale}/pages/homepage/advocacy.po"
+locales = [ "de", "es", "fr", "pt-BR",]
+
+[[paths]]
+reference = "templates/pages/homepage/privacynotincluded.pot"
+l10n = "locales/{locale}/pages/homepage/privacynotincluded.po"
+locales = [ "de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR",]
+
+[[paths]]
+reference = "templates/snippets/wagtailpages.Petition/90-tiktok-petition.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.Petition/90-tiktok-petition.po"
+locales = [ "de",]
+
+[[paths]]
+reference = "templates/pages/homepage.pot"
+l10n = "locales/{locale}/pages/homepage.po"
+locales = [ "de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR",]
+
+[[paths]]
+reference = "templates/pages/homepage/what-we-fund.pot"
+l10n = "locales/{locale}/pages/homepage/what-we-fund.po"
+locales = [ "de", "es", "fr",]
+
+[[paths]]
+reference = "templates/pages/homepage/blog/zoom-makes-right-call-encryption.pot"
+l10n = "locales/{locale}/pages/homepage/blog/zoom-makes-right-call-encryption.po"
+locales = [ "de",]
+
+[[paths]]
 reference = "templates/pages/homepage/campaigns/youtube-regrets.pot"
 l10n = "locales/{locale}/pages/homepage/campaigns/youtube-regrets.po"
 locales = [ "de", "es", "fr",]
+
+[[paths]]
+reference = "templates/pages/homepage/newsletter.pot"
+l10n = "locales/{locale}/pages/homepage/newsletter.po"
+locales = [ "de", "es", "fr", "pt-BR",]
 
 [[paths]]
 reference = "templates/pages/homepage/campaigns/regrets-reporter.pot"
@@ -150,23 +120,43 @@ l10n = "locales/{locale}/pages/homepage/campaigns/regrets-reporter.po"
 locales = [ "de", "es", "fr", "fy-NL", "nl", "pt-BR",]
 
 [[paths]]
-reference = "templates/snippets/highlights.Highlight/100-hulu-its-time-for-ad-disclosure.pot"
-l10n = "locales/{locale}/snippets/highlights.Highlight/100-hulu-its-time-for-ad-disclosure.po"
-locales = [ "fr",]
+reference = "templates/snippets/wagtailpages.Signup/35-minimalist-signup-snippet.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.Signup/35-minimalist-signup-snippet.po"
+locales = [ "de", "es", "fr", "pt-BR",]
 
 [[paths]]
-reference = "templates/snippets/highlights.Highlight/64-untrendtwitter.pot"
-l10n = "locales/{locale}/snippets/highlights.Highlight/64-untrendtwitter.po"
-locales = [ "fr",]
+reference = "templates/pages/homepage/blog/tips-make-your-zoom-gatherings-more-private.pot"
+l10n = "locales/{locale}/pages/homepage/blog/tips-make-your-zoom-gatherings-more-private.po"
+locales = [ "de",]
 
 [[paths]]
-reference = "templates/snippets/highlights.Highlight/22-with-great-tech-comes-great.pot"
-l10n = "locales/{locale}/snippets/highlights.Highlight/22-with-great-tech-comes-great.po"
-locales = [ "fr",]
+reference = "templates/pages/homepage/privacynotincluded/happn.pot"
+l10n = "locales/{locale}/pages/homepage/privacynotincluded/happn.po"
+locales = [ "de",]
 
 [[paths]]
-reference = "templates/snippets/highlights.Highlight/67-read-the-2020-internet-health-report.pot"
-l10n = "locales/{locale}/snippets/highlights.Highlight/67-read-the-2020-internet-health-report.po"
+reference = "templates/pages/homepage/blog.pot"
+l10n = "locales/{locale}/pages/homepage/blog.po"
+locales = [ "de", "es", "fr", "fy-NL", "nl", "pt-BR",]
+
+[[paths]]
+reference = "templates/pages/homepage/campaigns/tiktok-political-ads/introduction.pot"
+l10n = "locales/{locale}/pages/homepage/campaigns/tiktok-political-ads/introduction.po"
+locales = [ "de",]
+
+[[paths]]
+reference = "templates/pages/homepage/campaigns/tiktok-political-ads/executive-summary.pot"
+l10n = "locales/{locale}/pages/homepage/campaigns/tiktok-political-ads/executive-summary.po"
+locales = [ "de",]
+
+[[paths]]
+reference = "templates/pages/homepage/campaigns/tiktok-political-ads/tiktoks-policies.pot"
+l10n = "locales/{locale}/pages/homepage/campaigns/tiktok-political-ads/tiktoks-policies.po"
+locales = [ "de",]
+
+[[paths]]
+reference = "templates/snippets/highlights.Highlight/16-common-voice.pot"
+l10n = "locales/{locale}/snippets/highlights.Highlight/16-common-voice.po"
 locales = [ "fr",]
 
 [[paths]]
@@ -175,8 +165,23 @@ l10n = "locales/{locale}/snippets/highlights.Highlight/7-privacy-not-included.po
 locales = [ "fr",]
 
 [[paths]]
-reference = "templates/snippets/highlights.Highlight/16-common-voice.pot"
-l10n = "locales/{locale}/snippets/highlights.Highlight/16-common-voice.po"
+reference = "templates/snippets/highlights.Highlight/67-read-the-2020-internet-health-report.pot"
+l10n = "locales/{locale}/snippets/highlights.Highlight/67-read-the-2020-internet-health-report.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/snippets/highlights.Highlight/22-with-great-tech-comes-great.pot"
+l10n = "locales/{locale}/snippets/highlights.Highlight/22-with-great-tech-comes-great.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/snippets/highlights.Highlight/64-untrendtwitter.pot"
+l10n = "locales/{locale}/snippets/highlights.Highlight/64-untrendtwitter.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/snippets/highlights.Highlight/100-hulu-its-time-for-ad-disclosure.pot"
+l10n = "locales/{locale}/snippets/highlights.Highlight/100-hulu-its-time-for-ad-disclosure.po"
 locales = [ "fr",]
 
 [[paths]]
