@@ -6,6 +6,10 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "X-WagtailLocalize-TranslationID: 9388f116-bc1b-473b-9475-a3310b2c65fb\n"
 
+msgctxt "title"
+msgid "References"
+msgstr ""
+
 msgctxt "body.f084f1f4-210f-46b7-8e58-82a729591b0c"
 msgid ""
 "“A comprehensive plan to innovate democracy in Europe: Civil society vision for the European Democracy Action Plan.” <i>European Partnership for Democracy,</i> Sept. 2020, <a "

@@ -5,6 +5,10 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 
+msgctxt "title"
+msgid "TikTok's political ad policies are easy to evade"
+msgstr ""
+
 msgctxt "body.adf3436f-96b5-4d1c-8469-756d83ea4435"
 msgid ""
 "Charli D'Amelio promoting sugary Dunkin’ Donuts drinks is one thing, but how do TikTok’s policies stack up when influencers are paid to promote political messages? Does TikTok consider such messages"

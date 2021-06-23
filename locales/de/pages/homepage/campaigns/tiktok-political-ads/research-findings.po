@@ -6,6 +6,10 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "X-WagtailLocalize-TranslationID: 7b61b955-f309-4b91-95b2-23701bb0e514\n"
 
+msgctxt "title"
+msgid "Research findings"
+msgstr ""
+
 msgctxt "body.23269787-1843-42b9-b489-8fa29c6a387b"
 msgid ""
 "Our research found that several TikTok influencers in the United States who disseminate political messages on the platform are receiving payment or the promise of compensation from political "

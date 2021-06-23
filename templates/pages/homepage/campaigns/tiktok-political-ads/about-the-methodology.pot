@@ -5,6 +5,10 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 
+msgctxt "title"
+msgid "About the methodology"
+msgstr ""
+
 msgctxt "body.cfa15f1e-f308-442d-bcfb-d9e43788ae15"
 msgid ""
 "Our research was primarily conducted in February 2021. We used several different methods in our analysis, employing desk research, technical tools, and qualitative methods to identify paid political"

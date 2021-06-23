@@ -5,6 +5,10 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 
+msgctxt "title"
+msgid "Executive Summary"
+msgstr ""
+
 msgctxt "body.f3956d64-e3eb-4931-a429-1449fc97e71c"
 msgid ""
 "As internet platforms continue to struggle with misleading and opaque political advertising, TikTok has branded itself as an outlier. The platform claims to have banned all political advertising, "

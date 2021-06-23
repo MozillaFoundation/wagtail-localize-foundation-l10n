@@ -5,6 +5,10 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 
+msgctxt "title"
+msgid "References"
+msgstr ""
+
 msgctxt "body.f084f1f4-210f-46b7-8e58-82a729591b0c"
 msgid ""
 "“A comprehensive plan to innovate democracy in Europe: Civil society vision for the European Democracy Action Plan.” <i>European Partnership for Democracy,</i> Sept. 2020, <a "

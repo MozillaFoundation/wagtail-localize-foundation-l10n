@@ -5,6 +5,10 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 
+msgctxt "title"
+msgid "Conclusion"
+msgstr ""
+
 msgctxt "body.a9ee82d9-4572-401f-ac82-73413f7ea1bf"
 msgid ""
 "In light of our findings and TikTok’s latest moves to allow individual users to pay to promote their content to other people on TikTok, we are concerned that TikTok’s political ad policies don’t "

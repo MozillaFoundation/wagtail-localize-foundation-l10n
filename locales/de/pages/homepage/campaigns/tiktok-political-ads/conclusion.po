@@ -6,6 +6,10 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "X-WagtailLocalize-TranslationID: a2beb1f8-2bd9-4dea-86ca-13eef389f004\n"
 
+msgctxt "title"
+msgid "Conclusion"
+msgstr ""
+
 msgctxt "body.a9ee82d9-4572-401f-ac82-73413f7ea1bf"
 msgid ""
 "In light of our findings and TikTok’s latest moves to allow individual users to pay to promote their content to other people on TikTok, we are concerned that TikTok’s political ad policies don’t "

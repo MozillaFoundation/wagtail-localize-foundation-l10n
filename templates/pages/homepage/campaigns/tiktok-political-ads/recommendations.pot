@@ -5,6 +5,10 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 
+msgctxt "title"
+msgid "Recommendations"
+msgstr ""
+
 msgctxt "body.8be93493-4e92-4bbf-843e-a92b7fddd42e"
 msgid ""
 "Our research suggests that there is political advertising on TikTok, despite <a id=\"a1\">its policies prohibiting this kind of branded content</a>. In practical terms, this means that political "

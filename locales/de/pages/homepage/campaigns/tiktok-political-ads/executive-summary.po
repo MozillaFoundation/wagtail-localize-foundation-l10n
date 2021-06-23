@@ -6,6 +6,10 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "X-WagtailLocalize-TranslationID: 5f93ac3f-c004-4475-8db2-52245e1a674a\n"
 
+msgctxt "title"
+msgid "Executive Summary"
+msgstr ""
+
 msgctxt "body.f3956d64-e3eb-4931-a429-1449fc97e71c"
 msgid ""
 "As internet platforms continue to struggle with misleading and opaque political advertising, TikTok has branded itself as an outlier. The platform claims to have banned all political advertising, "
