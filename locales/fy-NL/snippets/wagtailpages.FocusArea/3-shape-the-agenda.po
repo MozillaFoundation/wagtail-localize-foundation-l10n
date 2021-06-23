@@ -1,0 +1,15 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2021-06-23 08:14:44.518964+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 4cacf8e5-b9b6-4a80-a5cb-6dd471aa44ed\n"
+
+msgctxt "name"
+msgid "Shape the Agenda"
+msgstr ""
+
+msgctxt "description"
+msgid "We publish open-source research and host global convenings to make ideas like trustworthy AI mainstream."
+msgstr ""

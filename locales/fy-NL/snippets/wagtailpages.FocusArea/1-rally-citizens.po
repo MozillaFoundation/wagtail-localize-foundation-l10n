@@ -1,0 +1,15 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2021-06-23 08:14:44.985826+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: c00187f5-1611-44b3-8881-655c4053f5c1\n"
+
+msgctxt "name"
+msgid "Rally Citizens"
+msgstr ""
+
+msgctxt "description"
+msgid "Issues like privacy, trustworthy AI, and digital rights impact all of us who use the internet. Mozilla helps translate them and empower meaningful change."
+msgstr ""

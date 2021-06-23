@@ -1,0 +1,18 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2021-06-23 08:14:44.204674+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: cdaf2681-c49b-42a5-8ebf-004fb9c6088b\n"
+
+msgctxt "search_description"
+msgid ""
+"What is #YouTubeRegrets? #YouTubeRegrets is a crowdsourced public awareness campaign run by the nonprofit Mozilla.  Mozilla collected YouTube users’ stories about the platform’s recommendation "
+"engine leading them down bizarre and sometimes dangerous pathways. This work was catalyzed by our own research on trustworthy AI; by stories in the New York Times and other publications; and by "
+"YouTube engineers who have spoken out."
+msgstr ""
+
+msgctxt "header"
+msgid "About YouTube Regrets"
+msgstr ""
