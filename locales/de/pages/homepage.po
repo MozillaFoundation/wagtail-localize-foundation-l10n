@@ -1,4 +1,4 @@
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
@@ -36,7 +36,7 @@ msgstr "Petition unterzeichnen"
 
 msgctxt "spotlight_headline"
 msgid "Election Integrity &amp; Platform Accountability"
-msgstr ""
+msgstr "Intégrité des élections &amp; responsabilité des plateformes"
 
 msgctxt "cause_statement"
 msgid "The Mozilla Foundation works to ensure the internet remains a public resource that is open and accessible to us all."
