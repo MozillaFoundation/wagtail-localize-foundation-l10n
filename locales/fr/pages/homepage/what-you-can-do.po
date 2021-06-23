@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-06-23 10:01:01.148416+00:00\n"
-"PO-Revision-Date: 2021-06-23 10:42+0000\n"
+"PO-Revision-Date: 2021-06-23 10:45+0000\n"
 "Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -25,7 +25,7 @@ msgstr ""
 
 msgctxt "ctaButtonURL"
 msgid "https://foundation.mozilla.org/campaigns/open-letter-to-venmo-make-privacy-the-default/"
-msgstr ""
+msgstr "https://foundation.mozilla.org/campaigns/open-letter-to-venmo-make-privacy-the-default/"
 
 msgctxt "ctaHeroHeader2"
 msgid "If you can, will you give today?"
@@ -37,11 +37,11 @@ msgstr ""
 
 msgctxt "ctaButtonTitle2"
 msgid "Donate Now"
-msgstr ""
+msgstr "Faire un don"
 
 msgctxt "ctaButtonURL2"
 msgid "https://donate.mozilla.org?utm_source=foundation.mozilla.org&amp;utm_medium=referral&amp;utm_content=participate"
-msgstr ""
+msgstr "https://donate.mozilla.org?utm_source=foundation.mozilla.org&amp;utm_medium=referral&amp;utm_content=participate"
 
 msgctxt "ctaHeroHeader3"
 msgid "Spread the word"
@@ -53,7 +53,7 @@ msgstr ""
 
 msgctxt "ctaFacebook3"
 msgid "http://foundation.mozilla.org/"
-msgstr ""
+msgstr "http://foundation.mozilla.org/"
 
 msgctxt "ctaTwitter3"
 msgid "Click here to work with Mozilla for Internet Health http://foundation.mozilla.org/"
@@ -91,7 +91,7 @@ msgstr ""
 
 msgctxt "cta4.abacc2b0-9c3f-40dd-9256-31e1f9b5d2d8.buttonURL"
 msgid "https://mozillafestival.org/"
-msgstr ""
+msgstr "https://mozillafestival.org/"
 
 msgctxt "cta4.bf0464c6-7695-4243-ba7e-faf9141edaeb.header"
 msgid "Become A Fellow"
@@ -109,4 +109,4 @@ msgstr ""
 
 msgctxt "cta4.bf0464c6-7695-4243-ba7e-faf9141edaeb.buttonURL"
 msgid "https://foundation.mozilla.org/what-we-fund/fellowships/"
-msgstr ""
+msgstr "https://foundation.mozilla.org/what-we-fund/fellowships/"
