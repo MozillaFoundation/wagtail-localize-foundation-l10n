@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-06-23 08:14:43.644287+00:00\n"
-"PO-Revision-Date: 2021-06-23 10:32+0000\n"
+"PO-Revision-Date: 2021-06-23 10:42+0000\n"
 "Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -24,6 +24,9 @@ msgid ""
 "Be Smart. Shop Safe.\r"
 "<br/> <br/>How creepy is that smart speaker, that fitness tracker, those wireless headphones? We created this guide to help you shop for safe, secure connected products."
 msgstr ""
+"Soyez malins, achetez des produits sûrs.\n"
+"<br/><br/>\n"
+"À quel point cette enceinte connectée, ce bracelet connecté ou ce casque sans fil sont-ils flippants ? Nous avons conçu ce guide pour vous permettre d’acheter des objets connectés sûrs."
 
 msgctxt "header"
 msgid "Be Smart. Shop Safe."
