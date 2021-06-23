@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-06-23 12:41:26.338669+00:00\n"
-"PO-Revision-Date: 2021-06-23 14:14+0000\n"
+"PO-Revision-Date: 2021-06-23 14:18+0000\n"
 "Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -47,7 +47,7 @@ msgstr ""
 
 msgctxt "how_does_it_use_data_collected"
 msgid "Google says that your personal data is never sold to third parties."
-msgstr "Google affirme que vos données personnelles ne sont jamais vendues à des tiers. "
+msgstr "Google affirme que vos données personnelles ne sont jamais vendues à des tiers."
 
 msgctxt "uses_encryption_helptext"
 msgid "Uses encryption in transit and at rest."
