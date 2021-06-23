@@ -6,6 +6,10 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "X-WagtailLocalize-TranslationID: 911fc30a-f52e-4392-b1f4-4f87e9868eb2\n"
 
+msgctxt "title"
+msgid "Introduction"
+msgstr ""
+
 msgctxt "body.2a4725d1-ce43-455b-bf78-3b8ffd9a127f"
 msgid ""
 "Advertising on social media platforms takes a variety of forms, and increasingly it is centered on 'influencers'—content creators with large numbers of social media followers. Brands can work "
