@@ -1,9 +1,14 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-06-23 08:14:44.142409+00:00\n"
+"PO-Revision-Date: 2021-06-23 10:11+0000\n"
+"Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: f2c59ad1-d723-4d5d-91ec-babb00d7f0c9\n"
 
 msgctxt "seo_title"
@@ -68,10 +73,13 @@ msgid ""
 "<b>In two weeks, we’ll have a meeting with YouTube.</b> At this meeting we plan to ask them to make a serious commitment to work with researchers and fix the problem of harmful content amplified by "
 "their recommendation algorithm. Your stories will help us document the real experiences of YouTube users so we can put pressure on them to recommend responsibly. No regrets!"
 msgstr ""
+"Le 20 septembre, nous aurons une réunion avec YouTube. Lors de cette réunion, nous prévoyons de leur demander de s’engager sérieusement à travailler avec les chercheurs pour résoudre ce problème de "
+"contenus toxiques accentué par leur algorithme de recommandation. Vos anecdotes nous aideront à documenter les expériences réelles des utilisateurs et utilisatrices de YouTube afin que nous "
+"puissions les inciter à faire des recommandations de manière responsable."
 
 msgctxt "body.0ddbe8af-f301-42db-8c04-6f4a9eb9fd85.altText"
 msgid "mozilla logo"
-msgstr ""
+msgstr "logo mozilla"
 
 msgctxt "body.0ddbe8af-f301-42db-8c04-6f4a9eb9fd85.text"
 msgid "<i>If you'd like more conversation, ideas, and thinking on how to make all our digital lives better, sign up for our</i> <a id=\"a1\"><i>fabulous email list!</i></a>"
