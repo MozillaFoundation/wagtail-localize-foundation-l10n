@@ -1,0 +1,15 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2021-06-23 12:38:45.767432+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: dcbf8bc5-17bf-4fba-a0a3-905327ba2d4e\n"
+
+msgctxt "thank_you"
+msgid "Thank you for signing too!"
+msgstr ""
+
+msgctxt "header"
+msgid "Add your name:"
+msgstr ""
