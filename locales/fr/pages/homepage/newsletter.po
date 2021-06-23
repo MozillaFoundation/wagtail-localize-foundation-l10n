@@ -1,0 +1,19 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2021-06-23 10:01:01.078037+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 6089b456-4010-4aef-90f1-a49aef1c30bd\n"
+
+msgctxt "body.9113257d-e98f-4a28-a49c-07f2c3dbbb65"
+msgid "Protect the internet as a global public resource."
+msgstr ""
+
+msgctxt "body.9113257d-e98f-4a28-a49c-07f2c3dbbb65"
+msgid "Join our email list to take action and stay updated!"
+msgstr ""
+
+msgctxt "title"
+msgid "Newsletter Sign Up"
+msgstr ""
