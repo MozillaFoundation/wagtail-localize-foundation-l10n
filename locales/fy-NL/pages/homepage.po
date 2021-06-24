@@ -1,14 +1,19 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-06-23 08:14:45.181380+00:00\n"
+"PO-Revision-Date: 2021-06-24 12:42+0000\n"
+"Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
+"Language: fy_NL\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: bb91af99-7680-469e-b9ff-521383a7da25\n"
 
 msgctxt "seo_title"
 msgid "Mozilla Foundation"
-msgstr ""
+msgstr "Mozilla Foundation"
 
 msgctxt "search_description"
 msgid "Mozilla is a global nonprofit dedicated to keeping the Internet a global public resource that is open and accessible to all."
