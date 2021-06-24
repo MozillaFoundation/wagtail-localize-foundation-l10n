@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-06-23 08:14:46.382994+00:00\n"
-"PO-Revision-Date: 2021-06-24 11:18+0000\n"
+"PO-Revision-Date: 2021-06-24 11:21+0000\n"
 "Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
@@ -205,15 +205,15 @@ msgstr ""
 
 msgctxt "body.a65e0b39-3ffa-4203-b8f4-e05b09092bdb.text"
 msgid "Internet Health Report"
-msgstr ""
+msgstr "Relatório de Integridade da Internet"
 
 msgctxt "body.a65e0b39-3ffa-4203-b8f4-e05b09092bdb.text"
 msgid "We use data visualization and original reporting to track ways the internet is helping — and hurting — users around the world."
-msgstr ""
+msgstr "Usamos visualização de dados e relatórios originais para acompanhar as formas como a internet está ajudando — e prejudicando — usuários no mundo todo."
 
 msgctxt "body.a65e0b39-3ffa-4203-b8f4-e05b09092bdb.text"
 msgid "<a id=\"a1\">Read the latest report →</a>"
-msgstr ""
+msgstr "<a id=\"a1\">Ler o último relatório →</a>"
 
 msgctxt "body.356d14fb-156e-4dc6-a5c7-57c6917471ec.altText"
 msgid "picture of a phone with bubble speech illustrations on top of it"
@@ -221,31 +221,33 @@ msgstr ""
 
 msgctxt "body.356d14fb-156e-4dc6-a5c7-57c6917471ec.text"
 msgid "Our Research on Data Futures"
-msgstr ""
+msgstr "Nossa pesquisa sobre futuro de dados"
 
 msgctxt "body.356d14fb-156e-4dc6-a5c7-57c6917471ec.text"
 msgid "Examining approaches to data stewardship and alternative data governance."
-msgstr ""
+msgstr "Examinando abordagens para administração de dados e governança de dados alternativa."
 
 msgctxt "body.356d14fb-156e-4dc6-a5c7-57c6917471ec.text"
 msgid "<a id=\"a1\">Read the report →</a>"
-msgstr ""
+msgstr "<a id=\"a1\">Ler o relatório →</a>"
 
 msgctxt "body.eeb33f0a-10a0-479e-a86c-3877c94b8be5.altText"
 msgid "abstract illustration"
-msgstr ""
+msgstr "ilustração abstrata"
 
 msgctxt "body.eeb33f0a-10a0-479e-a86c-3877c94b8be5.text"
 msgid "Creating Trustworthy AI white paper"
-msgstr ""
+msgstr "Artigo sobre inteligência artificial confiável"
 
 msgctxt "body.eeb33f0a-10a0-479e-a86c-3877c94b8be5.text"
 msgid "Unpacks the major challenges and opportunities in the AI era. We examine how artificial intelligence is intersecting with issues like bias, discrimination, and privacy."
 msgstr ""
+"Desvenda os principais desafios e oportunidades na era da inteligência artificial. Examinamos como a inteligência artificial está se cruzando com questões como preconceito, discriminação, e "
+"privacidade."
 
 msgctxt "body.eeb33f0a-10a0-479e-a86c-3877c94b8be5.text"
 msgid "<a id=\"a1\">Read the white paper →</a>"
-msgstr ""
+msgstr "<a id=\"a1\">Ler o resumo →</a>"
 
 msgctxt "body.f2ece2ca-bb5e-40bc-98d5-56539c649416.label"
 msgid "See our Insights hub"
@@ -253,8 +255,8 @@ msgstr ""
 
 msgctxt "body.f2ece2ca-bb5e-40bc-98d5-56539c649416.URL"
 msgid "https://foundation.mozilla.org/insights/"
-msgstr ""
+msgstr "https://foundation.mozilla.org/insights/"
 
 msgctxt "title"
 msgid "What we do"
-msgstr ""
+msgstr "O que fazemos"
