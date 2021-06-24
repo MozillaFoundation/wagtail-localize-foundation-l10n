@@ -1,14 +1,19 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-06-23 10:00:59.065977+00:00\n"
+"PO-Revision-Date: 2021-06-24 09:18+0000\n"
+"Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
+"Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 7b61b955-f309-4b91-95b2-23701bb0e514\n"
 
 msgctxt "title"
 msgid "Research findings"
-msgstr ""
+msgstr "Ergebnisse unserer Nachforschungen"
 
 msgctxt "body.23269787-1843-42b9-b489-8fa29c6a387b"
 msgid ""
