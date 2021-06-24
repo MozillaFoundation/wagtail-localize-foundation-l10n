@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-06-23 08:14:45.338481+00:00\n"
-"PO-Revision-Date: 2021-06-24 11:25+0000\n"
+"PO-Revision-Date: 2021-06-24 11:27+0000\n"
 "Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
 "Language: nl\n"
 "MIME-Version: 1.0\n"
@@ -173,11 +173,11 @@ msgstr "Een experimentele ruimte voor het aanzetten tot nieuwe benaderingen van 
 
 msgctxt "body.7248a8e8-1820-48c1-b3c2-b3fc42c6a401.text"
 msgid "<a id=\"a1\">Learn more about the Data Futures Lab →</a>"
-msgstr ""
+msgstr "<a id=\"a1\">Meer info over het Data Futures Lab →</a>"
 
 msgctxt "body.7337ef57-6939-465d-85c2-02bd58140fc2"
 msgid "Shape the agenda"
-msgstr ""
+msgstr "De agenda vormgeven"
 
 msgctxt "body.7337ef57-6939-465d-85c2-02bd58140fc2"
 msgid ""
@@ -185,12 +185,17 @@ msgid ""
 "explosion of online tracking, to increasing internet shutdowns, to the advent of deepfakes. But we also highlight bright spots and provide solutions, from the potential of open data to nascent "
 "social media cooperatives."
 msgstr ""
+"Het internet is een enorm ecosysteem. Het onderzoek van Mozilla – van ons jaarlijkse internetgezondheidsrapport tot onze witboeken – brengt de logica ervan in kaart. We onderzoeken bedreigingen voor"
+" een gezond internet, van de explosie van online volgen tot het steeds vaker afsluiten van internet en de komst van deepfakes. Maar we brengen ook positieve punten onder de aandacht en bieden "
+"oplossingen, van het potentieel van open gegevens tot opkomende socialemedia-samenwerkingsacties."
 
 msgctxt "body.7337ef57-6939-465d-85c2-02bd58140fc2"
 msgid ""
 "Mozilla’s research, like its products, is open-source. It’s built with input from experts across the globe. And it’s free for others to re-publish, remix, and use in their own campaigns and "
 "curricula."
 msgstr ""
+"Het onderzoek van Mozilla is, net als haar producten, open source. Het is opgebouwd met input van experts over de hele wereld. En anderen kunnen het gratis opnieuw publiceren, remixen en gebruiken "
+"in hun eigen campagnes en curricula."
 
 msgctxt "body.a65e0b39-3ffa-4203-b8f4-e05b09092bdb.altText"
 msgid "colorful illustration containing speech bubbles, buttons and other shapes"
@@ -198,15 +203,15 @@ msgstr ""
 
 msgctxt "body.a65e0b39-3ffa-4203-b8f4-e05b09092bdb.text"
 msgid "Internet Health Report"
-msgstr ""
+msgstr "Internet Health Report"
 
 msgctxt "body.a65e0b39-3ffa-4203-b8f4-e05b09092bdb.text"
 msgid "We use data visualization and original reporting to track ways the internet is helping — and hurting — users around the world."
-msgstr ""
+msgstr "We gebruiken datavisualisatie en originele rapportages om te volgen hoe internet gebruikers over de hele wereld helpt en kwetst."
 
 msgctxt "body.a65e0b39-3ffa-4203-b8f4-e05b09092bdb.text"
 msgid "<a id=\"a1\">Read the latest report →</a>"
-msgstr ""
+msgstr "<a id=\"a1\">Lees het laatste rapport →</a>"
 
 msgctxt "body.356d14fb-156e-4dc6-a5c7-57c6917471ec.altText"
 msgid "picture of a phone with bubble speech illustrations on top of it"
@@ -214,19 +219,19 @@ msgstr ""
 
 msgctxt "body.356d14fb-156e-4dc6-a5c7-57c6917471ec.text"
 msgid "Our Research on Data Futures"
-msgstr ""
+msgstr "Ons onderzoek naar de toekomst van gegevens"
 
 msgctxt "body.356d14fb-156e-4dc6-a5c7-57c6917471ec.text"
 msgid "Examining approaches to data stewardship and alternative data governance."
-msgstr ""
+msgstr "Onderzoek naar benaderingen van juiste omgang met gegevens en alternatief gegevensbeheer."
 
 msgctxt "body.356d14fb-156e-4dc6-a5c7-57c6917471ec.text"
 msgid "<a id=\"a1\">Read the report →</a>"
-msgstr ""
+msgstr "<a id=\"a1\">Lees het rapport →</a>"
 
 msgctxt "body.eeb33f0a-10a0-479e-a86c-3877c94b8be5.altText"
 msgid "abstract illustration"
-msgstr ""
+msgstr "abstracte illustratie"
 
 msgctxt "body.eeb33f0a-10a0-479e-a86c-3877c94b8be5.text"
 msgid "Creating Trustworthy AI white paper"
@@ -234,7 +239,7 @@ msgstr ""
 
 msgctxt "body.eeb33f0a-10a0-479e-a86c-3877c94b8be5.text"
 msgid "Unpacks the major challenges and opportunities in the AI era. We examine how artificial intelligence is intersecting with issues like bias, discrimination, and privacy."
-msgstr ""
+msgstr "Wijdt uit over de grote uitdagingen en kansen in het AI-tijdperk. We onderzoeken hoe kunstmatige intelligentie kruist met kwesties als vooringenomenheid, discriminatie en privacy."
 
 msgctxt "body.eeb33f0a-10a0-479e-a86c-3877c94b8be5.text"
 msgid "<a id=\"a1\">Read the white paper →</a>"
@@ -246,8 +251,8 @@ msgstr ""
 
 msgctxt "body.f2ece2ca-bb5e-40bc-98d5-56539c649416.URL"
 msgid "https://foundation.mozilla.org/insights/"
-msgstr ""
+msgstr "https://foundation.mozilla.org/insights/"
 
 msgctxt "title"
 msgid "What we do"
-msgstr ""
+msgstr "Wat we doen"
