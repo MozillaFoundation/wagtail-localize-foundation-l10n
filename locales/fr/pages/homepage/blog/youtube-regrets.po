@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-06-23 08:14:44.142409+00:00\n"
-"PO-Revision-Date: 2021-06-23 10:30+0000\n"
+"PO-Revision-Date: 2021-06-25 14:20+0000\n"
 "Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -78,7 +78,7 @@ msgstr "Racontez-nous votre plus grand regret sur YouTube"
 
 msgctxt "body.63aa2392-4ce0-4fd5-8ccb-96f793667556.URL"
 msgid "https://forms.gle/pnC2sSjyQnidApdi6"
-msgstr "https://forms.gle/pnC2sSjyQnidApdi6"
+msgstr "https://forms.gle/Br6VD1ZyrzRD2dZq8"
 
 msgctxt "body.59c83de7-e362-4b3a-b2a1-58189c73f4d9"
 msgid ""
