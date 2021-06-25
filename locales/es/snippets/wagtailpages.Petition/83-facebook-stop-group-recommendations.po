@@ -1,0 +1,19 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2021-06-25 07:17:46.714477+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 508715cc-be1e-43e2-8ff0-8d2a6e3a0f7d\n"
+
+msgctxt "thank_you"
+msgid "Thank you for signing. Now will you ask your friends and family to join you?"
+msgstr ""
+
+msgctxt "header"
+msgid "Stop Group Recommendations"
+msgstr ""
+
+msgctxt "description"
+msgid "Tell Mark Zuckerberg: Stop Group recommendations until the U.S. election results are certified."
+msgstr ""

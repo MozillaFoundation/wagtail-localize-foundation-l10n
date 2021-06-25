@@ -1,0 +1,15 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2021-06-25 07:17:55.573019+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 621d1fe6-dc57-4988-b0c6-88c2e0dc242a\n"
+
+msgctxt "header"
+msgid "Thanks, your input has been recorded."
+msgstr ""
+
+msgctxt "body.f45ccb62-7a05-4b26-b67a-d77070594769"
+msgid "We appreciate your time. Have a great day!"
+msgstr ""
