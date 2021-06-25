@@ -13,7 +13,7 @@ msgstr ""
 
 msgctxt "thank_you"
 msgid "Thank you for signing the petition. Now, will you amplify your impact by asking your friends to sign, too?"
-msgstr "Vielen Dank für die Unterzeichnung der Petition. Werden Sie jetzt Ihre Wirkung verstärken, indem Sie Ihre Freunde bitten, ebenfalls zu unterschreiben?"
+msgstr ""
 
 msgctxt "header"
 msgid "Pause Police Partnerships"
