@@ -1,22 +1,27 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-06-25 07:38:56.615316+00:00\n"
+"PO-Revision-Date: 2021-06-25 09:46+0000\n"
+"Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
+"Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: a85d2d21-eb8b-4f58-a45b-125ae64fe340\n"
 
 msgctxt "seo_title"
 msgid "Mozilla Explains: Dating Apps, AI and Collaborative Filtering"
-msgstr ""
+msgstr "Mozilla wyjaśnia: aplikacje randkowe, sztuczna inteligencja i filtrowanie kooperacyjne"
 
 msgctxt "search_description"
 msgid "Dating app usage is on the rise. If you're one of the millions of people looking for love online, you might be wondering, how does the app know who to show you next?"
-msgstr ""
+msgstr "Czy dzięki aplikacjom randkowym możesz nadal być singlem.? Mozilla wyjaśnia: aplikacje randkowe, sztuczna inteligencja i filtrowanie kooperacyjne"
 
 msgctxt "body.2422aea5-c86a-43f1-95b0-d5adb2798750"
 msgid "There’s Something About AI"
-msgstr ""
+msgstr "Ma to związek ze sztuczną inteligencją"
 
 msgctxt "body.2422aea5-c86a-43f1-95b0-d5adb2798750"
 msgid ""
@@ -24,26 +29,30 @@ msgid ""
 "pandemic times the numbers only get bigger — OKCupid saw a <a id=\"a2\">700% increase</a> in dates while Tinder reached a record 3 billion swipes. You’re probably wondering, with all those people "
 "swiping to find love, how does the app know who to show you next? If Tinder shows you someone who you deem a solid match, just know it isn’t fully serendipity."
 msgstr ""
+"Jeszcze przed pandemią był wzrost użytkowników portali randkowych - <a id=\"a1\">30% dorosłych osób</a> w USA korzystało z aplikacji lub strony randkowej, a 12% poznało w ten sposób partnera na "
+"długoterminowy związek. Czasy pandemii powodują jeszcze szybszy wzrost - ilość użytkowników OKCupid <a id=\"a2\">wzrosła o 700%</a>, a Tinder zarejestrował rekordową liczbę 3 miliardów machnięć. "
+"Pewnie się zastawiacie jak aplikacja decyduje, kogo wam teraz pokazać, biorąc pod uwagę te miliony ludzi, które z niej korzystają. Jeśli Tinder pokaże wam kogoś naprawdę dopasowanego do was, to już "
+"wiadomo, że nie jest to czysty przypadek."
 
 msgctxt "body.2422aea5-c86a-43f1-95b0-d5adb2798750"
 msgid "Here’s Digital Dating Consultant and Mozilla Foundation’s own Ann Marie Carrothers to with more on the topic."
-msgstr ""
+msgstr "Więcej na ten temat opowie Ann Marie Carrothers z Mozilla Foundation, Konsultantka Randek Online."
 
 msgctxt "body.c0f77925-031e-444d-b35f-680d59f7731c.url"
 msgid "https://www.youtube.com/embed/YTlOrapai-M"
-msgstr ""
+msgstr "https://www.youtube.com/embed/YTlOrapai-M?rel=0&cc_load_policy=1&cc_lang_pref=pl"
 
 msgctxt "body.c0f77925-031e-444d-b35f-680d59f7731c.caption"
 msgid "Mozilla Explains: Are Dating Apps Keeping You Single"
-msgstr ""
+msgstr "Mozilla wyjaśnia: dlaczego dzięki aplikacjom randkowym możesz nadal być singlem"
 
 msgctxt "body.c0f77925-031e-444d-b35f-680d59f7731c.captionURL"
 msgid "https://www.youtube.com/watch?v=YTlOrapai-M"
-msgstr ""
+msgstr "https://www.youtube.com/watch?v=YTlOrapai-M"
 
 msgctxt "body.1e3501f2-8482-4a72-a07b-a0b006d65321"
 msgid "Along Came AI"
-msgstr ""
+msgstr "Nastały czasy sztucznej inteligencji"
 
 msgctxt "body.1e3501f2-8482-4a72-a07b-a0b006d65321"
 msgid ""
@@ -76,4 +85,4 @@ msgstr ""
 
 msgctxt "title"
 msgid "Mozilla Explains: How Dating Apps Might Be Keeping You Single"
-msgstr ""
+msgstr "Mozilla wyjaśnia: dlaczego dzięki aplikacjom randkowym możesz nadal być singlem"
