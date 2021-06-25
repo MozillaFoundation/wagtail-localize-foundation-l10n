@@ -1,4 +1,4 @@
-# 
+#
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-06-23 12:38:47.119092+00:00\n"
@@ -7,9 +7,9 @@ msgstr ""
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
-"X-WagtailLocalize-TranslationID: ea5e086e-a527-4d98-8eea-2014bd5c8630\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Generator: Pontoon\n"
+"X-WagtailLocalize-TranslationID: ea5e086e-a527-4d98-8eea-2014bd5c8630\n"
 
 msgctxt "seo_title"
 msgid "Mozilla Explains: Why Does YouTube Recommend Conspiracy Theory Videos?"

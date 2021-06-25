@@ -1,4 +1,4 @@
-# 
+#
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-06-23 12:38:45.120099+00:00\n"
@@ -7,9 +7,9 @@ msgstr ""
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
-"X-WagtailLocalize-TranslationID: 34110278-2e94-4e2e-89ae-44d5d5118447\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Generator: Pontoon\n"
+"X-WagtailLocalize-TranslationID: 34110278-2e94-4e2e-89ae-44d5d5118447\n"
 
 msgctxt "thank_you"
 msgid "Thank you for signing too!"

@@ -1,4 +1,4 @@
-# 
+#
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-06-23 08:14:40.348728+00:00\n"
@@ -7,9 +7,9 @@ msgstr ""
 "Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
-"X-WagtailLocalize-TranslationID: c6ab0c2a-f622-477b-98df-90e9252db7d9\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pontoon\n"
+"X-WagtailLocalize-TranslationID: c6ab0c2a-f622-477b-98df-90e9252db7d9\n"
 
 msgctxt "search_description"
 msgid ""

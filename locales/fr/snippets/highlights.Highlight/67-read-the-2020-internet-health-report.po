@@ -1,4 +1,4 @@
-# 
+#
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-06-23 10:01:00.968343+00:00\n"
@@ -7,9 +7,9 @@ msgstr ""
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
-"X-WagtailLocalize-TranslationID: 78af828f-8606-4a7a-bedb-08a24da3bf8f\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Generator: Pontoon\n"
+"X-WagtailLocalize-TranslationID: 78af828f-8606-4a7a-bedb-08a24da3bf8f\n"
 
 msgctxt "title"
 msgid "Read the 2020 Internet Health Report"

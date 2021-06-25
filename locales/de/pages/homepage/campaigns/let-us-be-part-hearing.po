@@ -1,4 +1,4 @@
-# 
+#
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-06-23 12:38:36.877340+00:00\n"
@@ -7,9 +7,9 @@ msgstr ""
 "Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
-"X-WagtailLocalize-TranslationID: 5c7b6017-6dd3-4f7c-958a-b6dfc84dc99c\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pontoon\n"
+"X-WagtailLocalize-TranslationID: 5c7b6017-6dd3-4f7c-958a-b6dfc84dc99c\n"
 
 msgctxt "seo_title"
 msgid "Let Us Be Part of the Hearing"

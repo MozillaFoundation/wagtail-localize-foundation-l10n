@@ -1,4 +1,4 @@
-# 
+#
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-06-23 11:34:44.731257+00:00\n"
@@ -7,9 +7,9 @@ msgstr ""
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
-"X-WagtailLocalize-TranslationID: 64a65668-e1a3-4a53-9fbd-f0d3b4a64447\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Generator: Pontoon\n"
+"X-WagtailLocalize-TranslationID: 64a65668-e1a3-4a53-9fbd-f0d3b4a64447\n"
 
 msgctxt "seo_title"
 msgid "TikTok: Bring in ad transparency now"

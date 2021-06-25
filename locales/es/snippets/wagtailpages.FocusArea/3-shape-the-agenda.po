@@ -1,4 +1,4 @@
-# 
+#
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-06-23 08:14:42.297924+00:00\n"
@@ -7,9 +7,9 @@ msgstr ""
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
-"X-WagtailLocalize-TranslationID: adca6d14-e827-47dc-bb1d-3ff2cbacaf02\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pontoon\n"
+"X-WagtailLocalize-TranslationID: adca6d14-e827-47dc-bb1d-3ff2cbacaf02\n"
 
 msgctxt "name"
 msgid "Shape the Agenda"

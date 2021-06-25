@@ -1,4 +1,4 @@
-# 
+#
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-06-23 08:14:46.382994+00:00\n"
@@ -7,9 +7,9 @@ msgstr ""
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
-"X-WagtailLocalize-TranslationID: 41b5feaf-cf8a-4a6b-86a4-83accdd8c6cb\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Generator: Pontoon\n"
+"X-WagtailLocalize-TranslationID: 41b5feaf-cf8a-4a6b-86a4-83accdd8c6cb\n"
 
 msgctxt "search_description"
 msgid "Mozilla Foundation stands up for the health of the internet. We do this by empowering consumer action, connecting leaders, and fueling the movement."

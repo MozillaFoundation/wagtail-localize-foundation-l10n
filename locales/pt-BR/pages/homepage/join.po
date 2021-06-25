@@ -1,4 +1,4 @@
-# 
+#
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-06-23 12:38:51.732091+00:00\n"
@@ -7,9 +7,9 @@ msgstr ""
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
-"X-WagtailLocalize-TranslationID: 5ba3e3bf-6c21-4e65-a759-926b6aa26b91\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Generator: Pontoon\n"
+"X-WagtailLocalize-TranslationID: 5ba3e3bf-6c21-4e65-a759-926b6aa26b91\n"
 
 msgctxt "search_description"
 msgid "Join our newsletter and network. Share, discover, and collaborate."

@@ -1,4 +1,4 @@
-# 
+#
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-06-23 08:14:46.745696+00:00\n"
@@ -7,9 +7,9 @@ msgstr ""
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
-"X-WagtailLocalize-TranslationID: 0bb3d852-1c61-45e4-9ea7-7d273ffc8998\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Generator: Pontoon\n"
+"X-WagtailLocalize-TranslationID: 0bb3d852-1c61-45e4-9ea7-7d273ffc8998\n"
 
 msgctxt "seo_title"
 msgid "RegretsReporter"

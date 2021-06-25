@@ -1,4 +1,4 @@
-# 
+#
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-06-23 12:38:39.676170+00:00\n"
@@ -7,9 +7,9 @@ msgstr ""
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
-"X-WagtailLocalize-TranslationID: b9845988-cc68-4d91-8936-54c21123fff5\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pontoon\n"
+"X-WagtailLocalize-TranslationID: b9845988-cc68-4d91-8936-54c21123fff5\n"
 
 msgctxt "seo_title"
 msgid "Tune into the Sounds of the Internet Health Report"
