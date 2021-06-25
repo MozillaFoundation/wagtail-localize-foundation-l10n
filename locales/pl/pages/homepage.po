@@ -1,0 +1,99 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2021-06-25 07:38:56.185738+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: d3867dd8-74d1-4bb3-9604-bb0bcb11470c\n"
+
+msgctxt "seo_title"
+msgid "Mozilla Foundation"
+msgstr ""
+
+msgctxt "search_description"
+msgid "Mozilla is a global nonprofit dedicated to keeping the Internet a global public resource that is open and accessible to all."
+msgstr ""
+
+msgctxt "title"
+msgid "Homepage"
+msgstr ""
+
+msgctxt "hero_headline"
+msgid "TikTok: Provide Ad Transparency Now"
+msgstr ""
+
+msgctxt "hero_button_text"
+msgid "Sign The Petition"
+msgstr ""
+
+msgctxt "spotlight_headline"
+msgid "Election Integrity &amp; Platform Accountability"
+msgstr ""
+
+msgctxt "cause_statement"
+msgid "The Mozilla Foundation works to ensure the internet remains a public resource that is open and accessible to us all."
+msgstr ""
+
+msgctxt "cause_statement_link_text"
+msgid "Learn more about our work"
+msgstr ""
+
+msgctxt "quote_text"
+msgid "Of all the groups we work with regularly, very few have had the impact that our collaborations with Mozilla have had over the years…it’s absolutely a match made in heaven."
+msgstr ""
+
+msgctxt "quote_source_name"
+msgid "Jenny Toomey"
+msgstr ""
+
+msgctxt "quote_source_job_title"
+msgid "Ford Foundation"
+msgstr ""
+
+msgctxt "partner_heading"
+msgid "Partner with us"
+msgstr ""
+
+msgctxt "partner_intro_text"
+msgid "Help fund, shape, and expand Mozilla work toward a healthy internet and trustworthy AI."
+msgstr ""
+
+msgctxt "partner_page_text"
+msgid "Let’s work together"
+msgstr ""
+
+msgctxt "take_action_title"
+msgid "Take action"
+msgstr ""
+
+msgctxt "take_action_cards.9f9e1d1b-60bf-44ba-b1f6-eccd72fb058b.text"
+msgid "Open letter to Venmo: Make Privacy the Default"
+msgstr ""
+
+msgctxt "take_action_cards.c3c17bd0-2a53-4868-94fc-f69b462ba758.text"
+msgid "Let’s Unfck The Internet"
+msgstr ""
+
+msgctxt "take_action_cards.7f8d1f4d-36e7-46f1-9394-cbd6d9a7fff5.text"
+msgid "Supporting Black Artists Examining AI"
+msgstr ""
+
+msgctxt "take_action_cards.9041b33f-d16f-48ea-8ca1-ebc0589716c8.text"
+msgid "Become an Advisor for the Cities’ Digital Rights Helpdesk!"
+msgstr ""
+
+msgctxt "partner_logos.fbd278b1-9006-4d04-ba3b-6fe58ce46d22.name"
+msgid "Ford Foundation logo"
+msgstr ""
+
+msgctxt "partner_logos.663605a7-20ab-4ee6-a9e3-1eacd51f6379.name"
+msgid "Omidyar Network logo"
+msgstr ""
+
+msgctxt "partner_logos.8f38c7b2-afdb-4dac-9c16-eb943ad67294.name"
+msgid "Color of Change logo"
+msgstr ""
+
+msgctxt "partner_logos.bf436b9f-50bb-4089-acfc-6b2b484f0885.name"
+msgid "Consumers International logo"
+msgstr ""
