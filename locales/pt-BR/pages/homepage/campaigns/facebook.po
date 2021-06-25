@@ -1,4 +1,4 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-06-25 07:17:59.578426+00:00\n"
@@ -36,11 +36,13 @@ msgid ""
 "Facebook said it’s taken steps to “limit developer access to detailed friend data”, but Facebook’s current default settings leave a lot of questions and a lot of data flying around. <b>One thing is "
 "clear though: Facebook needs to step up and respect its users.</b>"
 msgstr ""
+"O Facebook disse que tomou medidas para “limitar o acesso de desenvolvedores a dados detalhados de amigos”, mas as atuais configurações padrão do Facebook deixam muitas perguntas e muitos dados em "
+"aberto. <b>Entretanto, uma coisa é clara: o Facebook precisa dar um passo adiante e respeitar seus usuários.</b>"
 
 msgctxt "body.85b4b620-251b-40e4-8a8a-b1e6bb59744e"
 msgid "Will you add your name to the petition asking Facebook to change its app permissions and ensure your privacy is protected by default?"
-msgstr ""
+msgstr "Você adicionará o seu nome à petição pedindo que o Facebook altere as permissões de aplicativos e assegure que sua privacidade seja protegida por padrão?"
 
 msgctxt "body.85b4b620-251b-40e4-8a8a-b1e6bb59744e"
 msgid "Reference: <a id=\"a1\">New York Times.</a>"
-msgstr ""
+msgstr "Referência: <a id=\"a1\">UOL Tecnologia.</a>"
