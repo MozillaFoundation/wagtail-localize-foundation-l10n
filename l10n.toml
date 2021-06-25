@@ -1,11 +1,156 @@
 locales = [ "de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR",]
 [[paths]]
+reference = "templates/pages/homepage/campaigns/eu-misinformation.pot"
+l10n = "locales/{locale}/pages/homepage/campaigns/eu-misinformation.po"
+locales = [ "de", "es", "fr",]
+
+[[paths]]
+reference = "templates/pages/homepage/blog/basics-microtargeting-and-political-ads-facebook.pot"
+l10n = "locales/{locale}/pages/homepage/blog/basics-microtargeting-and-political-ads-facebook.po"
+locales = [ "de", "fr",]
+
+[[paths]]
+reference = "templates/pages/homepage/blog/lets-unfck-internet.pot"
+l10n = "locales/{locale}/pages/homepage/blog/lets-unfck-internet.po"
+locales = [ "de", "fr",]
+
+[[paths]]
+reference = "templates/pages/homepage/campaigns/eu-misinformation/thanks.pot"
+l10n = "locales/{locale}/pages/homepage/campaigns/eu-misinformation/thanks.po"
+locales = [ "de", "es", "fr",]
+
+[[paths]]
+reference = "templates/pages/homepage/campaigns/privacy-and-security-video-chat.pot"
+l10n = "locales/{locale}/pages/homepage/campaigns/privacy-and-security-video-chat.po"
+locales = [ "de", "es", "fr",]
+
+[[paths]]
 reference = "templates/pages/homepage/what-we-fund.pot"
 l10n = "locales/{locale}/pages/homepage/what-we-fund.po"
+locales = [ "de", "es", "fr",]
+
+[[paths]]
+reference = "templates/snippets/wagtailpages.Petition/22-publishers_campaign_misinformation.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.Petition/22-publishers_campaign_misinformation.po"
 locales = [ "de", "es", "fr",]
 
 [[paths]]
 reference = "templates/pages/homepage/what-we-do.pot"
 l10n = "locales/{locale}/pages/homepage/what-we-do.po"
 locales = [ "de", "es", "fr", "fy-NL", "nl", "pt-BR",]
+
+[[paths]]
+reference = "templates/pages/homepage/blog/mozillas-vision-for-trustworthy-ai.pot"
+l10n = "locales/{locale}/pages/homepage/blog/mozillas-vision-for-trustworthy-ai.po"
+locales = [ "de", "es", "fr",]
+
+[[paths]]
+reference = "templates/pages/homepage/campaigns/eu-misinformation/publisher-campaign.pot"
+l10n = "locales/{locale}/pages/homepage/campaigns/eu-misinformation/publisher-campaign.po"
+locales = [ "de", "es", "fr",]
+
+[[paths]]
+reference = "templates/pages/homepage/blog/ring-2fa-and-win-consumers.pot"
+l10n = "locales/{locale}/pages/homepage/blog/ring-2fa-and-win-consumers.po"
+locales = [ "de", "es", "fr",]
+
+[[paths]]
+reference = "templates/pages/homepage/blog.pot"
+l10n = "locales/{locale}/pages/homepage/blog.po"
+locales = [ "de", "es", "fr", "fy-NL", "nl", "pt-BR",]
+
+[[paths]]
+reference = "templates/snippets/wagtailpages.Signup/35-minimalist-signup-snippet.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.Signup/35-minimalist-signup-snippet.po"
+locales = [ "de", "es", "fr", "pt-BR",]
+
+[[paths]]
+reference = "templates/pages/homepage/privacynotincluded.pot"
+l10n = "locales/{locale}/pages/homepage/privacynotincluded.po"
+locales = [ "de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR",]
+
+[[paths]]
+reference = "templates/pages/homepage/blog/how-opt-out-human-review-your-voice-assistant-recordings.pot"
+l10n = "locales/{locale}/pages/homepage/blog/how-opt-out-human-review-your-voice-assistant-recordings.po"
+locales = [ "de", "fr",]
+
+[[paths]]
+reference = "templates/pages/homepage/blog/tips-make-your-zoom-gatherings-more-private.pot"
+l10n = "locales/{locale}/pages/homepage/blog/tips-make-your-zoom-gatherings-more-private.po"
+locales = [ "de", "es", "fr",]
+
+[[paths]]
+reference = "templates/pages/homepage/newsletter.pot"
+l10n = "locales/{locale}/pages/homepage/newsletter.po"
+locales = [ "de", "es", "fr", "pt-BR",]
+
+[[paths]]
+reference = "templates/pages/homepage/blog/thank-you-apple-for-standing-strong-for-privacy.pot"
+l10n = "locales/{locale}/pages/homepage/blog/thank-you-apple-for-standing-strong-for-privacy.po"
+locales = [ "de", "es", "fr",]
+
+[[paths]]
+reference = "templates/pages/homepage/blog/which-video-call-apps-can-you-trust.pot"
+l10n = "locales/{locale}/pages/homepage/blog/which-video-call-apps-can-you-trust.po"
+locales = [ "de", "es", "fr",]
+
+[[paths]]
+reference = "templates/pages/homepage/blog/video-call-apps-get-bit-more-secure.pot"
+l10n = "locales/{locale}/pages/homepage/blog/video-call-apps-get-bit-more-secure.po"
+locales = [ "de", "es", "fr",]
+
+[[paths]]
+reference = "templates/pages/homepage/campaigns/eu-misinformation/action.pot"
+l10n = "locales/{locale}/pages/homepage/campaigns/eu-misinformation/action.po"
+locales = [ "de", "es", "fr",]
+
+[[paths]]
+reference = "templates/pages/homepage/blog/youtube-regrets.pot"
+l10n = "locales/{locale}/pages/homepage/blog/youtube-regrets.po"
+locales = [ "de", "es", "fr", "pt-BR",]
+
+[[paths]]
+reference = "templates/pages/homepage/blog/zoom-makes-right-call-encryption.pot"
+l10n = "locales/{locale}/pages/homepage/blog/zoom-makes-right-call-encryption.po"
+locales = [ "de", "fr",]
+
+[[paths]]
+reference = "templates/pages/homepage/campaigns/eu-misinformation/resources.pot"
+l10n = "locales/{locale}/pages/homepage/campaigns/eu-misinformation/resources.po"
+locales = [ "de", "es", "fr",]
+
+[[paths]]
+reference = "templates/pages/homepage/blog/we-asked-people-around-the-world-how-they-feel-about-artificial-intelligence-heres-what-we-learned.pot"
+l10n = "locales/{locale}/pages/homepage/blog/we-asked-people-around-the-world-how-they-feel-about-artificial-intelligence-heres-what-we-learned.po"
+locales = [ "de", "es", "fr",]
+
+[[paths]]
+reference = "templates/pages/homepage/blog/join-mozilla-telling-major-companies-stophateforprofit.pot"
+l10n = "locales/{locale}/pages/homepage/blog/join-mozilla-telling-major-companies-stophateforprofit.po"
+locales = [ "de", "es", "fr", "pt-BR",]
+
+[[paths]]
+reference = "templates/pages/homepage/campaigns/eu-misinformation/publisher-campaign/thanks-guardian.pot"
+l10n = "locales/{locale}/pages/homepage/campaigns/eu-misinformation/publisher-campaign/thanks-guardian.po"
+locales = [ "de", "fr",]
+
+[[paths]]
+reference = "templates/pages/homepage/blog/day-unite-against-hate-speech-and-misinformation.pot"
+l10n = "locales/{locale}/pages/homepage/blog/day-unite-against-hate-speech-and-misinformation.po"
+locales = [ "de", "es", "fr", "pt-BR",]
+
+[[paths]]
+reference = "templates/pages/homepage/blog/what-ive-learned-from-the-internet-health-report-and-its-not-even-ready-yet.pot"
+l10n = "locales/{locale}/pages/homepage/blog/what-ive-learned-from-the-internet-health-report-and-its-not-even-ready-yet.po"
+locales = [ "es", "fr",]
+
+[[paths]]
+reference = "templates/pages/homepage/blog/100-internet-health-stories-shared-by-you.pot"
+l10n = "locales/{locale}/pages/homepage/blog/100-internet-health-stories-shared-by-you.po"
+locales = [ "es", "fr",]
+
+[[paths]]
+reference = "templates/pages/homepage/blog/tune-into-the-sounds-of-the-internet-health-report.pot"
+l10n = "locales/{locale}/pages/homepage/blog/tune-into-the-sounds-of-the-internet-health-report.po"
+locales = [ "es",]
 
