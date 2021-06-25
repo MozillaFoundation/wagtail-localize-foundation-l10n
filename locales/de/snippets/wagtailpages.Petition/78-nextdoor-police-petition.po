@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-06-25 07:17:43.210328+00:00\n"
-"PO-Revision-Date: 2021-06-25 14:51+0000\n"
+"PO-Revision-Date: 2021-06-25 15:45+0000\n"
 "Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
@@ -13,7 +13,7 @@ msgstr ""
 
 msgctxt "thank_you"
 msgid "Thank you for signing the petition. Now, will you amplify your impact by asking your friends to sign, too?"
-msgstr ""
+msgstr "Vielen Dank für Ihre Unterstützung! Würden Sie Ihre Freunde und Familie informieren?"
 
 msgctxt "header"
 msgid "Pause Police Partnerships"
