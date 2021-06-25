@@ -1,4 +1,4 @@
-# 
+#
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-06-25 07:17:47.181620+00:00\n"
@@ -139,7 +139,7 @@ msgstr ""
 
 msgctxt "body.c276b565-9440-42a8-b926-d77661e9157f"
 msgid "Sincerely,"
-msgstr "Cordialmente, "
+msgstr "Cordialmente"
 
 msgctxt "body.c276b565-9440-42a8-b926-d77661e9157f"
 msgid "Ashley Boyd<br/><i>Vice President, Advocacy and Engagement<br/>Mozilla Foundation<br/><br/></i>Gennie Gebhart<br/><i>Associate Director of Research<br/>Electronic Frontier Foundation</i>"
