@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-06-25 07:05:00.095506+00:00\n"
-"PO-Revision-Date: 2021-06-28 07:53+0000\n"
+"PO-Revision-Date: 2021-06-28 07:54+0000\n"
 "Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
@@ -41,8 +41,8 @@ msgstr "Dona hoy"
 
 msgctxt "body.b46edbb0-d9de-4c48-8a21-4a32b5d24341.URL"
 msgid "https://donate.mozilla.org?subscribed=1&amp;utm_source=foundation.mozilla.org&amp;utm_medium=referral&amp;utm_campaign=advocacy&amp;utm_term=zoompollconfpage"
-msgstr ""
+msgstr "https://donate.mozilla.org?subscribed=1&amp;utm_source=foundation.mozilla.org&amp;utm_medium=referral&amp;utm_campaign=advocacy&amp;utm_term=zoompollconfpage"
 
 msgctxt "title"
 msgid "Privacy and security on video chat"
-msgstr ""
+msgstr "Privacidad y seguridad en las videollamadas"
