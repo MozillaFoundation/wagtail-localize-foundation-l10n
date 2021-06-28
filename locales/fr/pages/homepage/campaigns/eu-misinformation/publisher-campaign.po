@@ -83,7 +83,7 @@ msgstr "Nous prévoyons de remettre une carte de remerciement au Guardian, ce qu
 
 msgctxt "body.6491c0ed-8467-4408-88d4-f9d23425bdf8"
 msgid "Will you add your name to say “thanks!” to The Guardian and tell other publishers to do the same?"
-msgstr ""
+msgstr "Souhaitez-vous vous joindre à nous pour remercier The Guardian et inviter les autres éditeurs à faire de même ?"
 
 msgctxt "title"
 msgid "Publisher Campaign"
