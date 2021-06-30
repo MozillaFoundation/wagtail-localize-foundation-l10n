@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-06-23 11:48:30.050095+00:00\n"
-"PO-Revision-Date: 2021-06-24 14:40+0000\n"
+"PO-Revision-Date: 2021-06-30 09:44+0000\n"
 "Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -32,10 +32,12 @@ msgid ""
 "Below is a short list of resources from organisations compiling resources on anti-disinformaton tools, resrouces, and initiatives, plus Mozilla's own <a id=\"a1\"><b>campaigning resources</b></a> "
 "for activists and organisations working to address misinformation."
 msgstr ""
+"Vous trouverez ci-dessous une liste d’outils, de lectures de référence et de <a id=\"a1\"><b>ressources de campagne</b></a> à destination des militants et des organisations qui luttent contre la "
+"désinformation."
 
 msgctxt "body.bfaa0733-2e2f-46ae-893a-dd5c2dc6983f"
 msgid "Although we think many of these resources are fabulous, inclusion of resources in this collection is not an endorsement of their content."
-msgstr ""
+msgstr "Même si nous pensons que beaucoup de ces ressources sont excellentes, leur présence dans cette liste ne constitue en aucun cas une approbation de leur contenu."
 
 msgctxt "body.bfaa0733-2e2f-46ae-893a-dd5c2dc6983f"
 msgid "Featured"
@@ -43,15 +45,15 @@ msgstr "Ressources mises en avant"
 
 msgctxt "body.d7ef37b3-bb79-4f71-b825-580e582192bb"
 msgid "Anti-Disinformation documents, initatives, and tools"
-msgstr ""
+msgstr "Documents, initiatives et outils de lutte contre la désinformation"
 
 msgctxt "body.d7ef37b3-bb79-4f71-b825-580e582192bb"
 msgid "<a id=\"a1\">Poynter's Guide to Misinformation Actions Around the World</a> (Webpage)"
-msgstr ""
+msgstr "<a id=\"a1\">Guide de Poynter sur les actions de désinformation dans le monde</a> (page web)"
 
 msgctxt "body.d7ef37b3-bb79-4f71-b825-580e582192bb"
 msgid "<a id=\"a1\">Credibility Coalition's CredCatalog database</a> (Webpage)"
-msgstr ""
+msgstr "<a id=\"a1\">Base de données CredCatalog de Credibility Coalition</a> (page web)"
 
 msgctxt "body.d7ef37b3-bb79-4f71-b825-580e582192bb"
 msgid "<a id=\"a1\">MisinfoCon's Catalogue of Projects Working to Solve Disinformation</a> (Webpage)"
@@ -59,28 +61,28 @@ msgstr "<a id=\"a1\">Liste de projets visant à résoudre les problèmes de dés
 
 msgctxt "body.d7ef37b3-bb79-4f71-b825-580e582192bb"
 msgid "<a id=\"a1\">Tools that fight misinformation online from Rand Corporation</a> (Webpage)"
-msgstr ""
+msgstr "<a id=\"a1\">Outils de lutte contre la désinformation en ligne de Rand Corporation</a> (page web)"
 
 msgctxt "body.d7ef37b3-bb79-4f71-b825-580e582192bb"
 msgid "Campaigning Resources"
-msgstr ""
+msgstr "Ressources pour mener campagne"
 
 msgctxt "body.d7ef37b3-bb79-4f71-b825-580e582192bb"
 msgid "<a id=\"a1\">Independent Researchers' Guide to a Perfect Ad Transparency API</a> (Webpage)"
-msgstr ""
+msgstr "<a id=\"a1\">Guide de chercheurs indépendants de l’API parfaite pour la transparence publicitaire</a> (page web)"
 
 msgctxt "body.d7ef37b3-bb79-4f71-b825-580e582192bb"
 msgid "<a id=\"a1\">Open Letter from Civil Society to Facebook</a> (Webpage)"
-msgstr ""
+msgstr "<a id=\"a1\">Lettre ouverte de la société civile à Facebook</a> (page web)"
 
 msgctxt "body.d7ef37b3-bb79-4f71-b825-580e582192bb"
 msgid "<a id=\"a1\">Mozilla Letter to EU Commission on Facebook Transparency</a> (Webpage)"
-msgstr ""
+msgstr "<a id=\"a1\">Lettre de Mozilla à la Commission européenne à propos de la transparence de Facebook</a> (page web)"
 
 msgctxt "body.d7ef37b3-bb79-4f71-b825-580e582192bb"
 msgid "<a id=\"a1\">Mozilla Survey: Ahead of Elections, EU Internet Users Regularly Encounter Online Misinformation</a> (Webpage)"
-msgstr ""
+msgstr "<a id=\"a1\">Sondage de Mozilla : en amont des élections, les internautes européens sont régulièrement confrontés à de fausses informations en ligne</a> (page web)"
 
 msgctxt "title"
 msgid "Resources"
-msgstr ""
+msgstr "Ressources"
