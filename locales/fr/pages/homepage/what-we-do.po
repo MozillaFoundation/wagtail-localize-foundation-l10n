@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-06-21 16:13:37.883925+00:00\n"
-"PO-Revision-Date: 2021-06-23 08:27+0000\n"
+"PO-Revision-Date: 2021-06-30 09:46+0000\n"
 "Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -203,7 +203,7 @@ msgstr ""
 
 msgctxt "body.a65e0b39-3ffa-4203-b8f4-e05b09092bdb.altText"
 msgid "colorful illustration containing speech bubbles, buttons and other shapes"
-msgstr ""
+msgstr "illustration colorée contenant des bulles, des boutons et d’autres formes"
 
 msgctxt "body.a65e0b39-3ffa-4203-b8f4-e05b09092bdb.text"
 msgid "Internet Health Report"
@@ -219,7 +219,7 @@ msgstr "<a id=\"a1\">Lire le dernier rapport →</a>"
 
 msgctxt "body.356d14fb-156e-4dc6-a5c7-57c6917471ec.altText"
 msgid "picture of a phone with bubble speech illustrations on top of it"
-msgstr ""
+msgstr "photo d’un téléphone avec des illustrations de bulles dessus"
 
 msgctxt "body.356d14fb-156e-4dc6-a5c7-57c6917471ec.text"
 msgid "Our Research on Data Futures"
