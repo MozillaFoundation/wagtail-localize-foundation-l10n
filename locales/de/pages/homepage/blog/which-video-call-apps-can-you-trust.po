@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-06-25 07:04:58.810152+00:00\n"
-"PO-Revision-Date: 2021-06-29 15:19+0000\n"
+"PO-Revision-Date: 2021-06-30 06:57+0000\n"
 "Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
@@ -194,19 +194,21 @@ msgstr ""
 
 msgctxt "body.c182836d-5a87-4742-b804-20c302e9d526"
 msgid "Good news: Many apps provide admirable privacy and security features"
-msgstr ""
+msgstr "Gute Nachrichten: Viele Apps bieten lobenswerte Funktionen für den Datenschutz und die Sicherheit."
 
 msgctxt "body.c182836d-5a87-4742-b804-20c302e9d526"
 msgid "All apps with a built-in recording feature alert participants when recording occurs"
-msgstr ""
+msgstr "Alle Apps mit integrierter Aufnahmefunktion benachrichtigen Teilnehmer, wenn ein Chat aufgenommen wird."
 
 msgctxt "body.c182836d-5a87-4742-b804-20c302e9d526"
 msgid "On most apps, hosts have the ability to set rules, like who can unmute and who can share their screen — meaning accidents and trolls can quickly be dealt with"
 msgstr ""
+"In den meisten Apps haben die Hosts von Anrufen die Möglichkeit zu bestimmen, wer Stummschaltungen aufheben oder den Bildschirm mit anderen teilen kann. Das bedeutet, dass Unfälle vermieden und "
+"Trolle schnell verbannt werden können."
 
 msgctxt "body.c182836d-5a87-4742-b804-20c302e9d526"
 msgid "The two open-source apps in the guide — <a id=\"a1\">Jitsi Meet</a> and <a id=\"a2\">Signal</a> — have strong privacy protections"
-msgstr ""
+msgstr "Die zwei Apps im Leitfaden, die mit Open-Source-Software arbeiten – <a id=\"a1\">Jitsi Meet</a> und <a id=\"a2\">Signal</a> – legen sehr viel Wert auf Datenschutz."
 
 msgctxt "title"
 msgid "Which Video Call Apps Can You Trust?"

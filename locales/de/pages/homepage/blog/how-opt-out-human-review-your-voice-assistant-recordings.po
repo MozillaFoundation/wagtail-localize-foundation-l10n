@@ -1,9 +1,14 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-06-25 07:04:58.237738+00:00\n"
+"PO-Revision-Date: 2021-06-30 07:13+0000\n"
+"Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
+"Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: aee23ec3-3388-47c7-9dee-0a018e370977\n"
 
 msgctxt "search_description"
@@ -18,31 +23,35 @@ msgstr ""
 
 msgctxt "body.8fb086c3-9256-4375-bf59-a6be385f8838"
 msgid "If you have a voice assistant in your home or on your phone, have you ever been concerned that someone from the company could listen to your voice recordings?"
-msgstr ""
+msgstr "Wenn Sie zu Hause oder am Telefon einen Sprachassistenten haben, hatten Sie jemals Bedenken, dass jemand aus dem Unternehmen Ihre Sprachaufzeichnungen anhören könnte?"
 
 msgctxt "body.8fb086c3-9256-4375-bf59-a6be385f8838"
 msgid "Recent news coverage confirms that suspicion."
-msgstr ""
+msgstr "Die jüngste Berichterstattung bestätigt diesen Verdacht."
 
 msgctxt "body.8fb086c3-9256-4375-bf59-a6be385f8838"
 msgid ""
 "At the end of July, <a id=\"a1\">The Guardian reported</a> that people at Apple were regularly listening to recordings of deeply personal events such as conversations with doctors, sexual "
 "encounters, and other moments. While the effort was designed as a quality control measure, users likely had no idea that some of their utterances were being recorded and reviewed by humans."
 msgstr ""
+"Ende Juli <a id=\"a1\">berichtete The Guardian</a>, dass Apple-Mitarbeiter regelmäßig Aufzeichnungen von äußerst persönlichen Ereignissen wie Gesprächen mit Ärzten, sexuellen Begegnungen und anderen"
+" Momenten hörten. Obwohl dies als Qualitätskontrollmaßnahme gedacht war, hatten Benutzer wahrscheinlich keine Ahnung, dass einige ihrer Äußerungen von Menschen aufgezeichnet und überprüft wurden."
 
 msgctxt "body.8fb086c3-9256-4375-bf59-a6be385f8838"
 msgid ""
 "Since then, <a id=\"a1\">Apple has temporarily suspended its human review program</a>. Google has been forced to pause its own review program in the EU and Amazon is now giving users the ability to "
 "opt-out."
 msgstr ""
+"Seitdem hat <a id=\"a1\">Apple sein menschliches Überprüfungsprogramm vorübergehend ausgesetzt</a>. Google war gezwungen, sein eigenes Überprüfungsprogramm in der EU vorläufig einzustellen, und "
+"Amazon bietet seinen Nutzern nun die Möglichkeit, die Option zu deaktivieren."
 
 msgctxt "body.8fb086c3-9256-4375-bf59-a6be385f8838"
 msgid "Mozilla has put together a guide for you to change your privacy settings on voice assistants."
-msgstr ""
+msgstr "Mozilla hat eine Anleitung zusammengestellt, mit der Sie Ihre Datenschutzeinstellungen für Sprachassistenten ändern können."
 
 msgctxt "body.276796c1-5bca-4e63-bea2-fb73bff15f43.altText"
 msgid "Which voice assistants use human review of recordings"
-msgstr ""
+msgstr "Welche Sprachassistenten verwenden die menschliche Überprüfung von Aufzeichnungen?"
 
 msgctxt "body.ccbde4a2-5176-4a4a-af4c-f0cdf1fb0f66.altText"
 msgid "Amazon Alexa opt out"
