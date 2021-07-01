@@ -1,4 +1,4 @@
-# 
+#
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-06-25 07:05:01.393755+00:00\n"
@@ -32,8 +32,9 @@ msgid ""
 "<b>On April 8, 2020</b> <a id=\"a1\"><b>Zoom announced</b></a><b> an update that includes a new security button in the host toolbar making three of the recommendations below easier to implement. "
 "You’ll need to have the latest version of the Zoom client in order to use the new toolbar. We’ve made a few updates below to reflect the news.</b>"
 msgstr ""
-"<b>El 8 de abril de 2020, <a id=\"a1\">Zoom anunció</a> una actualización que incluye un nuevo botón de seguridad en la barra de herramientas del anfitrión, lo que facilita seguir tres de las recomendaciones indicadas a continuación. Es necesario contar con la versión más reciente del cliente Zoom para utilizar la nueva barra de herramientas. Abajo hicimos unas cuantas actualizaciones para reflejar esta novedad. "
-"</b>"
+"<b>El 8 de abril de 2020, <a id=\"a1\">Zoom anunció</a> una actualización que incluye un nuevo botón de seguridad en la barra de herramientas del anfitrión, lo que facilita seguir tres de las "
+"recomendaciones indicadas a continuación. Es necesario contar con la versión más reciente del cliente Zoom para utilizar la nueva barra de herramientas. Abajo hicimos unas cuantas actualizaciones "
+"para reflejar esta novedad</b>"
 
 msgctxt "body.5c6c7141-a66a-4321-91a6-e2658d703204"
 msgid ""
