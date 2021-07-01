@@ -1,4 +1,4 @@
-# 
+#
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-06-23 11:48:29.904821+00:00\n"
@@ -45,7 +45,7 @@ msgstr "<a id=\"a1\">Signez notre lettre ouverte à Facebook</a> demandant une t
 
 msgctxt "body.09eee7ed-a87d-4f93-b0e1-9dbf2817765b.url"
 msgid "https://foundation.mozilla.org/en/campaigns/eu-misinformation-facebook/"
-msgstr "https://foundation.mozilla.org/campaigns/eu-misinformation-facebook/"
+msgstr ""
 
 msgctxt "body.fea60484-68f0-46d8-98b2-11cfc7ebcbd2.altText"
 msgid "phone screen"
@@ -69,7 +69,7 @@ msgstr "<a id=\"a1\">Aidez-nous à dire merci au Guardian</a> d’empêcher la d
 
 msgctxt "body.1dfdf433-2462-456a-bacd-c31b5715fb75.url"
 msgid "https://foundation.mozilla.org/en/campaigns/eu-misinformation/publisher-campaign/"
-msgstr "https://foundation.mozilla.org/campaigns/eu-misinformation/publisher-campaign/"
+msgstr ""
 
 msgctxt "body.ba035b0e-6896-406f-ab21-18d380a00e6d.altText"
 msgid "Graphic"
