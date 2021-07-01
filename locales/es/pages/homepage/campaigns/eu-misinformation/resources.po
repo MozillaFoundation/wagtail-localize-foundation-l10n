@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-06-25 07:05:00.296013+00:00\n"
-"PO-Revision-Date: 2021-07-01 08:34+0000\n"
+"PO-Revision-Date: 2021-07-01 08:35+0000\n"
 "Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
@@ -18,6 +18,8 @@ msgstr "Herramientas, recursos para campaña y material de lectura complementari
 msgctxt "search_description"
 msgid "A list of tools, background reading and campaigning resources for activists and organisations working to address misinformation."
 msgstr ""
+"A continuación se incluye una lista de las herramientas, el material de lectura complementario y los recursos para campaña para los activistas y organizaciones que están esforzándose por abordar la "
+"información errónea."
 
 msgctxt "header"
 msgid "Resources"
@@ -81,7 +83,7 @@ msgstr ""
 
 msgctxt "body.d7ef37b3-bb79-4f71-b825-580e582192bb"
 msgid "<a id=\"a1\">Mozilla Survey: Ahead of Elections, EU Internet Users Regularly Encounter Online Misinformation</a> (Webpage)"
-msgstr ""
+msgstr "<a id=\"a1\">Encuesta de Mozilla: antes de las elecciones, los usuarios de Internet en la UE suelen encontrar información errónea en línea</a> (página web)"
 
 msgctxt "title"
 msgid "Resources"
