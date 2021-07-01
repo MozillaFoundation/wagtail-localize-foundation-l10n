@@ -1,4 +1,4 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-06-25 07:05:04.274992+00:00\n"
@@ -119,4 +119,4 @@ msgstr ""
 
 msgctxt "title"
 msgid "How to opt out of human review of your voice assistant recordings"
-msgstr ""
+msgstr "Comment refuser les écoutes des enregistrements de votre assistant vocal"

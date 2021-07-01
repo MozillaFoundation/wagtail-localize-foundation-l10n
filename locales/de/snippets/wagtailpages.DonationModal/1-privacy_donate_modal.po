@@ -1,4 +1,4 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-06-25 07:17:40.547048+00:00\n"
@@ -13,7 +13,7 @@ msgstr ""
 
 msgctxt "header"
 msgid "Thanks for signing! While you're here, we need your help."
-msgstr ""
+msgstr "Vielen Dank für Ihre Unterschrift! Wo Sie schon da sind, brauchen wir Ihre Hilfe."
 
 msgctxt "body"
 msgid ""
@@ -23,8 +23,8 @@ msgstr ""
 
 msgctxt "donate_text"
 msgid "Yes, I'll chip in"
-msgstr ""
+msgstr "Ja, ich spende"
 
 msgctxt "dismiss_text"
 msgid "No, I'll share instead"
-msgstr ""
+msgstr "Nein, aber ich teile den Beitrag"

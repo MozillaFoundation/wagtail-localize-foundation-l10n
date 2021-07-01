@@ -1,4 +1,4 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-06-25 07:05:02.796977+00:00\n"
@@ -41,7 +41,7 @@ msgstr "<b><a id=\"a1\">Pouvez-vous envoyer un tweet aujourd’hui pour encourag
 
 msgctxt "body.846a1cdd-7aaa-4502-bd1e-f2da912544f0.altText"
 msgid "Calling all Facebook advertisers! Tell Facebook it's time to #StopHateForProfit"
-msgstr ""
+msgstr "Appel à tous les annonceurs sur Facebook ! Dites à Facebook qu’il est temps d’arrêter de faire passer les profits avant tout le reste"
 
 msgctxt "body.5f1fbf4a-a9d6-463d-8b45-51a5c9a254f7"
 msgid ""
