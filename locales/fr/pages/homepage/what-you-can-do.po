@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-06-23 10:01:01.148416+00:00\n"
-"PO-Revision-Date: 2021-07-04 16:41+0000\n"
+"PO-Revision-Date: 2021-07-04 16:49+0000\n"
 "Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -17,7 +17,7 @@ msgstr "Participer"
 
 msgctxt "ctaHeroHeader"
 msgid "Open letter to Venmo: Make Privacy the Default"
-msgstr ""
+msgstr "Lettre ouverte à Venmo : respectez la vie privée par défaut"
 
 msgctxt "ctaHeroSubhead"
 msgid "Venmo doesn't allow users to set their friend lists to private. Our ask to Venmo is clear: offer both private friends lists and transactions settings that aren't toggled to public by default."
@@ -25,7 +25,7 @@ msgstr ""
 
 msgctxt "ctaButtonTitle"
 msgid "Sign the Letter"
-msgstr ""
+msgstr "Signer la lettre"
 
 msgctxt "ctaButtonURL"
 msgid "https://foundation.mozilla.org/campaigns/open-letter-to-venmo-make-privacy-the-default/"
@@ -37,7 +37,7 @@ msgstr ""
 
 msgctxt "ctaHeroSubhead2"
 msgid "People like you help us stand for a healthy accessible web for all. Donate to keep the web open and free."
-msgstr ""
+msgstr "Des personnes comme vous nous aident à défendre un Web accessible et sain pour toutes et tous. Faites un don pour que le Web demeure libre et ouvert."
 
 msgctxt "ctaButtonTitle2"
 msgid "Donate Now"
@@ -91,7 +91,7 @@ msgstr ""
 
 msgctxt "cta4.a577abd7-4bea-408d-93a1-6acb40ab22be.buttonTitle"
 msgid "Explore MozFest"
-msgstr ""
+msgstr "Découvrez le MozFest"
 
 msgctxt "cta4.a577abd7-4bea-408d-93a1-6acb40ab22be.buttonURL"
 msgid "https://mozillafestival.org/"
@@ -99,7 +99,7 @@ msgstr "https://mozillafestival.org/"
 
 msgctxt "cta4.ad664648-d7d8-46a3-b40e-80893e23c2e7.header"
 msgid "Become A Fellow"
-msgstr ""
+msgstr "Obtenez une bourse"
 
 msgctxt "cta4.ad664648-d7d8-46a3-b40e-80893e23c2e7.subhead"
 msgid ""
