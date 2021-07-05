@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-06-25 07:05:02.069619+00:00\n"
-"PO-Revision-Date: 2021-06-28 08:11+0000\n"
+"PO-Revision-Date: 2021-07-05 09:32+0000\n"
 "Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -23,7 +23,7 @@ msgstr ""
 
 msgctxt "header"
 msgid "Publisher Campaign"
-msgstr ""
+msgstr "Campagne sur les éditeurs"
 
 msgctxt "intro"
 msgid "Help us thank The Guardian and ask other news publishers to prevent old news stories from being shared as misinformation."
@@ -87,4 +87,4 @@ msgstr "Souhaitez-vous vous joindre à nous pour remercier The Guardian et invit
 
 msgctxt "title"
 msgid "Publisher Campaign"
-msgstr ""
+msgstr "Campagne sur les éditeurs"
