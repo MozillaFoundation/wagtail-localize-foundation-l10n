@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-06-21 16:13:37.773938+00:00\n"
-"PO-Revision-Date: 2021-06-22 17:34+0000\n"
+"PO-Revision-Date: 2021-07-05 09:17+0000\n"
 "Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -33,7 +33,7 @@ msgstr "Signer la pétition"
 
 msgctxt "spotlight_headline"
 msgid "What To Know About Venmo"
-msgstr ""
+msgstr "Les choses à savoir à propos de Venmo"
 
 msgctxt "cause_statement"
 msgid "The Mozilla Foundation works to ensure the internet remains a public resource that is open and accessible to us all."
