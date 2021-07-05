@@ -26,7 +26,7 @@ msgid "Sign The Petition"
 msgstr ""
 
 msgctxt "spotlight_headline"
-msgid "Election Integrity &amp; Platform Accountability"
+msgid "What To Know About Venmo"
 msgstr ""
 
 msgctxt "cause_statement"

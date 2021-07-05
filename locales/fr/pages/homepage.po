@@ -32,8 +32,8 @@ msgid "Sign The Petition"
 msgstr "Signer la pétition"
 
 msgctxt "spotlight_headline"
-msgid "Election Integrity &amp; Platform Accountability"
-msgstr "Intégrité des élections et responsabilité des plateformes"
+msgid "What To Know About Venmo"
+msgstr ""
 
 msgctxt "cause_statement"
 msgid "The Mozilla Foundation works to ensure the internet remains a public resource that is open and accessible to us all."
@@ -102,3 +102,7 @@ msgstr "Logo de Color of Change"
 msgctxt "partner_logos.bf436b9f-50bb-4089-acfc-6b2b484f0885.name"
 msgid "Consumers International logo"
 msgstr "Logo de Consumers International"
+
+#~ msgctxt "spotlight_headline"
+#~ msgid "Election Integrity &amp; Platform Accountability"
+#~ msgstr "Intégrité des élections et responsabilité des plateformes"
