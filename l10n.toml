@@ -484,3 +484,8 @@ reference = "templates/pages/homepage/what-you-can-do.pot"
 l10n = "locales/{locale}/pages/homepage/what-you-can-do.po"
 locales = [ "fr",]
 
+[[paths]]
+reference = "templates/pages/homepage/blog/amazon-sidewalk-amplifies-bad-behaviors.pot"
+l10n = "locales/{locale}/pages/homepage/blog/amazon-sidewalk-amplifies-bad-behaviors.po"
+locales = [ "fr",]
+
