@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-06-23 10:01:01.148416+00:00\n"
-"PO-Revision-Date: 2021-07-04 16:49+0000\n"
+"PO-Revision-Date: 2021-07-13 14:33+0000\n"
 "Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -33,7 +33,7 @@ msgstr "https://foundation.mozilla.org/campaigns/open-letter-to-venmo-make-priva
 
 msgctxt "ctaHeroHeader2"
 msgid "If you can, will you give today?"
-msgstr ""
+msgstr "Si vous le pouvez, ferez-vous un don ?"
 
 msgctxt "ctaHeroSubhead2"
 msgid "People like you help us stand for a healthy accessible web for all. Donate to keep the web open and free."
