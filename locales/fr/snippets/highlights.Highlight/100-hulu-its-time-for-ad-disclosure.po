@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-06-25 07:45:37.570263+00:00\n"
-"PO-Revision-Date: 2021-07-13 14:42+0000\n"
+"PO-Revision-Date: 2021-07-13 14:50+0000\n"
 "Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -13,7 +13,7 @@ msgstr ""
 
 msgctxt "title"
 msgid "Hulu: It's Time For Ad Disclosure"
-msgstr ""
+msgstr "Hulu : il est temps de faire preuve de transparence pour les publicités"
 
 msgctxt "description"
 msgid "Hulu doesn't offer up any kind of transparency tools for researchers to examine its ads. Help us tell Hulu to release an ad archive as soon as possible."
@@ -21,7 +21,7 @@ msgstr "Hulu n’offre aucun type d’outils de transparence aux chercheurs pour
 
 msgctxt "link_label"
 msgid "Hulu: It's Time For Ad Disclosure"
-msgstr ""
+msgstr "Hulu : il est temps de faire preuve de transparence pour les publicités"
 
 msgctxt "footer"
 msgid "Hulu doesn't offer up any kind of transparency tools for researchers to examine its ads. Help us tell Hulu to release an ad archive as soon as possible."
