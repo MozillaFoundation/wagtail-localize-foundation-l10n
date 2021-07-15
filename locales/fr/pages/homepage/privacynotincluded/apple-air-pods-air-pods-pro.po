@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-15 08:21:36.403800+00:00\n"
-"PO-Revision-Date: 2021-07-15 12:22+0000\n"
+"PO-Revision-Date: 2021-07-15 12:41+0000\n"
 "Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -55,7 +55,7 @@ msgstr ""
 
 msgctxt "strong_password_helptext"
 msgid "The device pairs securely via Bluetooth, which does not require a password."
-msgstr ""
+msgstr "L’appareil utilise un système de jumelage sécurisé par Bluetooth, qui ne nécessite pas de mot de passe."
 
 msgctxt "manage_vulnerabilities_helptext"
 msgid "Apple has a bug bounty program, which means that anyone who finds a security issue and discloses it responsibly may get paid. https://developer.apple.com/security-bounty/"
