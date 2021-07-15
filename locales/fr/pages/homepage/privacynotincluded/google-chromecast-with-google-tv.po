@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-06-23 12:41:26.338669+00:00\n"
-"PO-Revision-Date: 2021-07-13 14:32+0000\n"
+"PO-Revision-Date: 2021-07-15 07:32+0000\n"
 "Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -65,14 +65,16 @@ msgstr "Google dispose de plusieurs pages expliquant son approche de la confiden
 
 msgctxt "how_can_you_control_your_data"
 msgid "You can review and delete your data via the Google Privacy Dashboard."
-msgstr ""
+msgstr "Vous pouvez consulter et supprimer vos données avec le tableau de bord de confidentialité Google."
 
 msgctxt "track_record_details"
 msgid ""
 "In 2018, personal information was exposed in several incidents, resulting from access by app developers, exposure by mobile apps, or a bug in Google + API. Google has also stored location data "
 "without permission."
 msgstr ""
+"En 2018, des données personnelles ont été exposées suite à plusieurs incidents causés par l’accès de développeurs d’applications tierces, l’exposition des données par des applications mobiles et un "
+"bogue de l’API de Google+. Google a également stocké des données de localisation sans autorisation."
 
 msgctxt "ai_helptext"
 msgid "Google publishes academic papers about its AI research (https://ai.google/) and makes several tools available via open source. https://ai.google/tools/"
-msgstr ""
+msgstr "Google publie ses travaux de recherche en matière d’IA (https://ai.google/) et propose plusieurs outils open source. https://ai.google/tools/"
