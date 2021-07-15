@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-15 08:21:28.115134+00:00\n"
-"PO-Revision-Date: 2021-07-15 12:14+0000\n"
+"PO-Revision-Date: 2021-07-15 12:23+0000\n"
 "Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
@@ -71,7 +71,7 @@ msgstr "Sony hat ein Bug-Bounty-Programm, was bedeutet, dass jeder, der eine Sic
 
 msgctxt "privacy_policy_helptext"
 msgid "Sony's privacy policy begins with a summary of key points, which is useful."
-msgstr ""
+msgstr "Sonys Datenschutzrichtlinie wird von einer Zusammenfassung der wichtigsten Punkte eingeleitet, was nützlich ist."
 
 msgctxt "personal_data_collected"
 msgid "If using the headphones connect app, the following data is collected: Name, email address, postal code, date of birth"
