@@ -46,6 +46,14 @@ msgctxt "privacy_policy_helptext"
 msgid "Google has several privacy pages explaining its approach to privacy in simple language."
 msgstr ""
 
+msgctxt "personal_data_collected"
+msgid "Name, email, phone number"
+msgstr ""
+
+msgctxt "biometric_data_collected"
+msgid "Voice recordings"
+msgstr ""
+
 msgctxt "how_can_you_control_your_data"
 msgid "You can review and delete your data via the Google Privacy Dashboard."
 msgstr ""
