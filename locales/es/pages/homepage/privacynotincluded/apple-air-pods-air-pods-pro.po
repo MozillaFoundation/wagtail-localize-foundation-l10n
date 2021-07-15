@@ -1,4 +1,4 @@
-# 
+#
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-15 08:21:32.588219+00:00\n"
@@ -55,7 +55,7 @@ msgstr ""
 "conservan muestras de audio si has dado tu consentimiento para ello."
 
 msgctxt "strong_password_helptext"
-msgid "L’appareil utilise un système de jumelage sécurisé par Bluetooth, qui ne nécessite pas de mot de passe."
+msgid "The device pairs securely via Bluetooth, which does not require a password."
 msgstr ""
 
 msgctxt "manage_vulnerabilities_helptext"
