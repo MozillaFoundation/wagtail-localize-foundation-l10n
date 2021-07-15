@@ -62,3 +62,17 @@ msgstr ""
 msgctxt "privacy_policy_helptext"
 msgid "Google has several privacy pages explaining its approach to privacy in simple language."
 msgstr "Google dispose de plusieurs pages expliquant son approche de la confidentialité de façon claire."
+
+msgctxt "how_can_you_control_your_data"
+msgid "You can review and delete your data via the Google Privacy Dashboard."
+msgstr ""
+
+msgctxt "track_record_details"
+msgid ""
+"In 2018, personal information was exposed in several incidents, resulting from access by app developers, exposure by mobile apps, or a bug in Google + API. Google has also stored location data "
+"without permission."
+msgstr ""
+
+msgctxt "ai_helptext"
+msgid "Google publishes academic papers about its AI research (https://ai.google/) and makes several tools available via open source. https://ai.google/tools/"
+msgstr ""
