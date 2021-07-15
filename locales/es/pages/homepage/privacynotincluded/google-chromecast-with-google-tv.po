@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-06-25 07:17:48.488567+00:00\n"
-"PO-Revision-Date: 2021-07-15 11:57+0000\n"
+"PO-Revision-Date: 2021-07-15 12:24+0000\n"
 "Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
@@ -59,7 +59,7 @@ msgstr ""
 
 msgctxt "privacy_policy_helptext"
 msgid "Google has several privacy pages explaining its approach to privacy in simple language."
-msgstr ""
+msgstr "Google cuenta con varias páginas de privacidad en las que explica su enfoque a la privacidad usando un lenguaje sencillo."
 
 msgctxt "personal_data_collected"
 msgid "Name, email, phone number"
