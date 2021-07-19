@@ -1,14 +1,19 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-15 08:21:36.854141+00:00\n"
+"PO-Revision-Date: 2021-07-19 11:46+0000\n"
+"Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 378b754c-1a78-4b01-b28b-42967bfc7295\n"
 
 msgctxt "title"
 msgid "Facebook Portal"
-msgstr ""
+msgstr "Facebook Portal"
 
 msgctxt "blurb"
 msgid ""
@@ -16,10 +21,14 @@ msgid ""
 "people to drop a couple hundred dollars to put a device with an AI-powered smart camera capable of tracking your every move and an Alexa-powered, always listening microphone in your home. What could"
 " go wrong? Given Facebook's terrible track record on privacy, we're worried a lot."
 msgstr ""
+"Soyons clairs, Facebook a un historique vraiment peu glorieux en ce qui concerne la protection de la vie privée de ses utilisateurs et utilisatrices (souvenez-vous de leur amende record de "
+"5 milliards de dollars pour leurs manquements en la matière). À présent, pour quelques centaines de dollars, l’entreprise vous propose d’utiliser chez vous un appareil doté d’une caméra connectée "
+"basée sur l’IA, capable de suivre le moindre de vos mouvements, et d’un microphone intégrant Alexa, qui vous écoute en permanence. Qu’est-ce qui pourrait mal tourner ? Au vu de l’historique "
+"catastrophique de Facebook en matière de confidentialité, ça nous inquiète beaucoup."
 
 msgctxt "price"
 msgid "129 - 279"
-msgstr ""
+msgstr "129 - 279"
 
 msgctxt "worst_case"
 msgid ""
