@@ -85,3 +85,37 @@ msgstr "Aucun mot de passe n’est nécessaire, car la connexion se fait via le 
 msgctxt "manage_vulnerabilities_helptext"
 msgid "Happn runs security audits, led by independent and certified organizations."
 msgstr "happn réalise des audits de sécurité menés par des organismes indépendants et certifiés."
+
+msgctxt "personal_data_collected"
+msgid ""
+"First name (required), date of birth (required), photo (minimum one), gender (required), who users want to cross path with (required), what a user is looking for (optional), exercise habits "
+"(optional), ideal vacation (optional), night time habits (optional), smoking tolerance (optional), kids (optional), description (optional), job (optional), employer (optional), school (optional), "
+"messages exchanged (required), search preferences (required)."
+msgstr ""
+
+msgctxt "biometric_data_collected"
+msgid "Height (optional) and biometric data if a user chooses to certify their profile (Happn claims to delete the biometric data after verification but maintain the video in case of re-verification)"
+msgstr ""
+
+msgctxt "social_data_collected"
+msgid ""
+"Depending on whether users choose to sign-in with Facebook and/or whether they connect their Happn account with their Facebook account, Happn collects data such as name, age, gender, email, photos, "
+"professional career and education, interests and habits, height and profile description."
+msgstr ""
+
+msgctxt "how_can_you_control_your_data"
+msgid ""
+"Users can request to view and delete their personal data by emailing support@happn.com. In addition, users can review their current analytics, advertising, marketing exclusion and profile "
+"certification choice in the app at Settings &gt; My Data &gt; Manage my Choices."
+msgstr ""
+
+msgctxt "track_record_details"
+msgid "No known incidents in the last two years"
+msgstr ""
+
+msgctxt "ai_helptext"
+msgid ""
+"Happn uses AI for recommendations. From Real Business: \"Happn primarily relies on people crossing paths, hence, their location, rather than an algorithm suggesting people. However, Happn has "
+"indicated that AI is becoming increasingly important but that the company wants to use it in different ways to some of the other popular dating apps. Happn intends to maintain some randomness to its"
+" AI, so that it doesn't take the 'magic' out of the equation but still uses AI to 'rank' profiles according to what it assumes a user will like.\""
+msgstr ""
