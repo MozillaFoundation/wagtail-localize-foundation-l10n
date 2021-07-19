@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-15 08:21:28.550675+00:00\n"
-"PO-Revision-Date: 2021-07-19 08:18+0000\n"
+"PO-Revision-Date: 2021-07-19 08:20+0000\n"
 "Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
@@ -47,28 +47,28 @@ msgstr "Sonos nutzt keine Informationen, anhand derer Sie persönlich identifizi
 
 msgctxt "uses_encryption_helptext"
 msgid "Encrypts the device itself and communications with cloud services."
-msgstr ""
+msgstr "Verschlüsselt das Gerät an sich und Kommunikationen mit Cloud-Services."
 
 msgctxt "security_updates_helptext"
 msgid "Automatic updates are enabled by default."
-msgstr ""
+msgstr "Automatische Updates sind standardmäßig eingeschaltet."
 
 msgctxt "manage_vulnerabilities_helptext"
 msgid "Sonos does not have an official bug bounty program, but invites responsible disclosure of security bugs."
-msgstr ""
+msgstr "Sonos hat kein Bug-Bounty-Programm, lädt aber dazu ein, verantwortungsvoll Sicherheits-Bugs zu melden."
 
 msgctxt "privacy_policy_helptext"
 msgid "Sonos does provide an intro to the privacy policy that contains its guiding principles."
-msgstr ""
+msgstr "Sonos hat eine Einleitung für die Datenschutzrichtlinie verfasst, in der die wichtigsten Prinzipien dargelegt werden."
 
 msgctxt "personal_data_collected"
 msgid "Name, email, phone number, password"
-msgstr ""
+msgstr "Name, E-Mail, Telefonnummer, Passwort"
 
 msgctxt "how_can_you_control_your_data"
 msgid "You can request that data be deleted. You can opt out of Additional Usage Data collection in the Sonos App."
-msgstr ""
+msgstr "Sie können beantragen, dass Daten gelöscht werden. Sie können die Erfassung zusätzlicher Nutzungsdaten in der Sonos App ablehnen."
 
 msgctxt "track_record_details"
 msgid "An email sent by Sonos to 450 customers revealed all of their email addresses to each other in January 2020."
-msgstr ""
+msgstr "Eine E-Mail, die Sonos im Januar 2020 an 450 Kunden schickte, legte die E-Mail-Adressen sämtlicher Empfänger für alle anderen Empfänger offen."
