@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-15 08:21:30.870565+00:00\n"
-"PO-Revision-Date: 2021-07-19 08:12+0000\n"
+"PO-Revision-Date: 2021-07-19 08:18+0000\n"
 "Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
@@ -50,24 +50,24 @@ msgstr "Cifra el propio dispositivo y las comunicaciones con servicios en la nub
 
 msgctxt "security_updates_helptext"
 msgid "Automatic updates are enabled by default."
-msgstr ""
+msgstr "Las actualizaciones automáticas se activan por defecto."
 
 msgctxt "manage_vulnerabilities_helptext"
 msgid "Sonos does not have an official bug bounty program, but invites responsible disclosure of security bugs."
-msgstr ""
+msgstr "Sonos no tiene ningún programa oficial de cazadores de bugs, pero invita a sus usuarios a informar responsablemente de posibles problemas de seguridad."
 
 msgctxt "privacy_policy_helptext"
 msgid "Sonos does provide an intro to the privacy policy that contains its guiding principles."
-msgstr ""
+msgstr "Sonos ofrece una introducción a la política de privacidad que especifica los principios que la rigen."
 
 msgctxt "personal_data_collected"
 msgid "Name, email, phone number, password"
-msgstr ""
+msgstr "Nombre, dirección de correo electrónico, número de teléfono, contraseña"
 
 msgctxt "how_can_you_control_your_data"
 msgid "You can request that data be deleted. You can opt out of Additional Usage Data collection in the Sonos App."
-msgstr ""
+msgstr "Puedes solicitar que se borren los datos. Puedes negarte a la recogida de Datos de Uso Adicionales en la aplicación Sonos."
 
 msgctxt "track_record_details"
 msgid "An email sent by Sonos to 450 customers revealed all of their email addresses to each other in January 2020."
-msgstr ""
+msgstr "Un correo enviado por Sonos a 450 clientes reveló todas sus direcciones de correo electrónico al resto en enero de 2020."
