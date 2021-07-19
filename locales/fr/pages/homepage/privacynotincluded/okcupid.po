@@ -1,4 +1,4 @@
-# 
+#
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-15 10:04:03.566013+00:00\n"
@@ -68,11 +68,11 @@ msgstr ""
 " fins d’analyse, de publicité et de traitement des paiements."
 
 msgctxt "user_friendly_privacy_policy_helptext"
-msgid "Bien que l’application affirme la rendre accessible, elle reste encore assez technique."
+msgid "Pretty technical even though they claim to make it accessible."
 msgstr ""
 
 msgctxt "uses_encryption_helptext"
-msgid "Nous n’avons pas pu déterminer si un chiffrement est utilisé pour protéger les informations personnelles des membres, leurs Chats, leurs photos, etc."
+msgid "We were unable to determine if they use encryption to protect users' personal information, chats, photos, and more."
 msgstr ""
 
 msgctxt "strong_password_helptext"
