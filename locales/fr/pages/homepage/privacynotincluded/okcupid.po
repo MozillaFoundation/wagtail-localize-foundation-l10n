@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-15 10:04:03.566013+00:00\n"
-"PO-Revision-Date: 2021-07-19 12:30+0000\n"
+"PO-Revision-Date: 2021-07-19 12:41+0000\n"
 "Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -69,11 +69,11 @@ msgstr ""
 
 msgctxt "user_friendly_privacy_policy_helptext"
 msgid "Pretty technical even though they claim to make it accessible."
-msgstr ""
+msgstr "Bien que l’application affirme la rendre accessible, elle reste encore assez technique."
 
 msgctxt "uses_encryption_helptext"
 msgid "We were unable to determine if they use encryption to protect users' personal information, chats, photos, and more."
-msgstr ""
+msgstr "Nous n’avons pas pu déterminer si un chiffrement est utilisé pour protéger les informations personnelles des membres, leurs Chats, leurs photos, etc."
 
 msgctxt "strong_password_helptext"
 msgid "A strong password is required"
