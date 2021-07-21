@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-06-23 08:14:42.768603+00:00\n"
-"PO-Revision-Date: 2021-06-24 12:50+0000\n"
+"PO-Revision-Date: 2021-07-21 12:54+0000\n"
 "Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
@@ -82,7 +82,7 @@ msgstr "Let’s Unfck The Internet"
 
 msgctxt "take_action_cards.7f8d1f4d-36e7-46f1-9394-cbd6d9a7fff5.text"
 msgid "Supporting Black Artists Examining AI"
-msgstr ""
+msgstr "Apoyo a los artistas negros que examinan la inteligencia artificial"
 
 msgctxt "take_action_cards.9041b33f-d16f-48ea-8ca1-ebc0589716c8.text"
 msgid "Become an Advisor for the Cities’ Digital Rights Helpdesk!"

@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-15 08:21:32.672515+00:00\n"
-"PO-Revision-Date: 2021-07-15 12:23+0000\n"
+"PO-Revision-Date: 2021-07-21 12:56+0000\n"
 "Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
@@ -28,7 +28,7 @@ msgstr ""
 
 msgctxt "price"
 msgid "349.99"
-msgstr ""
+msgstr "349,99"
 
 msgctxt "worst_case"
 msgid ""
