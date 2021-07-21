@@ -1,4 +1,4 @@
-# 
+#
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-15 10:04:04.977497+00:00\n"
@@ -89,8 +89,8 @@ msgstr "Badoo participe à un programme de prime aux bogues : https://hackerone
 
 msgctxt "privacy_policy_helptext"
 msgid ""
-"In der Datenschutzrichtlinie von Badoo heißt es: „Obwohl wir angemessene Vorsichtsmaßnahmen gegen mögliche Sicherheitslücken unserer Website, Mitgliederdatenbank und Aufzeichnungen ergreifen, ist "
-"keine Website oder Internetübertragung vollständig sicher und wir können nicht garantieren, dass unbefugter Zugriff, Hacking, Datenverlust oder andere Verletzungen niemals auftreten werden.“"
+"Badoo states the following in its Privacy Policy: \"While we take reasonable precautions against possible security breaches of our website, member database and records no website or internet "
+"transmission is completely secure and we cannot guarantee that unauthorised access, hacking, data loss, or other breaches will never occur\""
 msgstr ""
 
 msgctxt "personal_data_collected"
