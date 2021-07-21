@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-15 10:04:04.977497+00:00\n"
-"PO-Revision-Date: 2021-07-21 10:41+0000\n"
+"PO-Revision-Date: 2021-07-21 10:49+0000\n"
 "Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -92,6 +92,9 @@ msgid ""
 "Badoo states the following in its Privacy Policy: \"While we take reasonable precautions against possible security breaches of our website, member database and records no website or internet "
 "transmission is completely secure and we cannot guarantee that unauthorised access, hacking, data loss, or other breaches will never occur\""
 msgstr ""
+"La Politique de confidentialité de Badoo contient la phrase suivante : « Bien que nous prenions des précautions raisonnables contre les failles de sécurité de notre site web, de nos bases de données"
+" et de nos dossiers, aucun(e) site web ou transmission internet n’est complètement sécurisé(e) et nous ne pouvons pas garantir que l’accès non autorisé, le piratage, la perte de données ou autre "
+"violation ne se produira jamais. »"
 
 msgctxt "personal_data_collected"
 msgid ""
