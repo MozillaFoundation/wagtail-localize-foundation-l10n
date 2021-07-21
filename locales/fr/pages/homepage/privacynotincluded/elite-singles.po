@@ -87,8 +87,8 @@ msgstr "Nous n’avons pas pu déterminer l’existence d’un programme de prim
 
 msgctxt "privacy_policy_helptext"
 msgid ""
-"Obwohl Elite Singles zu Spark Networks Services gehört, hat es eine andere Datenschutzrichtlinie als Christian Mingle und JDate. Ein bemerkenswerter Unterschied ist, dass Elite Singles Abschnitte "
-"über die DSGVO hat, während diese bei CM und JDate fehlen."
+"Even though Elite Singles is owned by Spark Networks Services, it has a different Privacy Policy than Christian Mingle and JDate. A noteable difference is that Elite Singles has sections on GDPR, "
+"whereas those are missing from CM and JDate"
 msgstr ""
 
 msgctxt "personal_data_collected"
