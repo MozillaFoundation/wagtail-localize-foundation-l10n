@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-15 10:03:55.725088+00:00\n"
-"PO-Revision-Date: 2021-07-21 08:16+0000\n"
+"PO-Revision-Date: 2021-07-21 09:01+0000\n"
 "Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
@@ -71,6 +71,8 @@ msgid ""
 "Overall, the privacy policy is clear, although at times lacking in detail. For example, how do they interact with social media? Why are they scrapping so much detail from one's address book and how "
 "do they use that data? How long do they retain data?"
 msgstr ""
+"Insgesamt ist die Datenschutzrichtlinie deutlich, wenn auch manchmal nicht sehr detailliert. Wie wird zum Beispiel mit sozialen Medien interagiert? Warum werden so viele Informationen aus dem "
+"Adressbuch abgefragt und wie werden diese Daten verwendet? Wie lange werden die Daten aufbewahrt?"
 
 msgctxt "uses_encryption_helptext"
 msgid "We were unable to determine if they use encryption to protect users' personal information, chats, photos, and more."
@@ -86,7 +88,7 @@ msgstr "Sie sind anscheinend nicht Teil eines Bug-Bounty-Programms."
 
 msgctxt "privacy_policy_helptext"
 msgid "HER's Privacy Policy doesn't include comprehensive details on safety"
-msgstr ""
+msgstr "Die Datenschutzrichtlinie von HER beinhaltet keine genauen Informationen in Bezug auf Sicherheit."
 
 msgctxt "personal_data_collected"
 msgid ""
