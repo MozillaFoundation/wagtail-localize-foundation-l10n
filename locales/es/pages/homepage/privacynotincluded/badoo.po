@@ -43,7 +43,7 @@ msgid ""
 msgstr ""
 
 msgctxt "user_friendly_privacy_policy_helptext"
-msgid "Die in der Datenschutzrichtlinie verwendete Sprache ist relativ benutzerfreundlich. Allerdings geht nicht klar aus der Datenschutzrichtlinie hervor, wie Daten weitergeben werden."
+msgid "The privacy policy language is relatively user-friendly. However, their privacy policy isn't totally clear on how they are sharing your data."
 msgstr ""
 
 msgctxt "uses_encryption_helptext"
