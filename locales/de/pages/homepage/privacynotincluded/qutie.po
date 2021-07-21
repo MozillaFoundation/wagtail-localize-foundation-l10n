@@ -105,4 +105,4 @@ msgstr ""
 
 msgctxt "track_record_details"
 msgid "No known incidents in the last two years"
-msgstr ""
+msgstr "Keine bekannten Vorfälle in den vergangenen zwei Jahren."
