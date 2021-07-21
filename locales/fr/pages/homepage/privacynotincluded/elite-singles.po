@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-15 10:04:07.667002+00:00\n"
-"PO-Revision-Date: 2021-07-21 09:41+0000\n"
+"PO-Revision-Date: 2021-07-21 10:24+0000\n"
 "Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -90,6 +90,8 @@ msgid ""
 "Even though Elite Singles is owned by Spark Networks Services, it has a different Privacy Policy than Christian Mingle and JDate. A noteable difference is that Elite Singles has sections on GDPR, "
 "whereas those are missing from CM and JDate"
 msgstr ""
+"Bien qu’EliteRencontre appartienne à Spark Networks Services, sa Politique de confidentialité diffère de celles de Christian Mingle et JDate. Elle comprend notamment une section à propos du RGPD, "
+"qui n’est pas présente chez CM et JDate."
 
 msgctxt "personal_data_collected"
 msgid ""
