@@ -1,4 +1,4 @@
-# 
+#
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-15 10:03:55.725088+00:00\n"
@@ -68,8 +68,8 @@ msgstr ""
 
 msgctxt "user_friendly_privacy_policy_helptext"
 msgid ""
-"Insgesamt ist die Datenschutzrichtlinie deutlich, wenn auch manchmal nicht sehr detailliert. Wie wird zum Beispiel mit sozialen Medien interagiert? Warum werden so viele Informationen aus dem "
-"Adressbuch abgefragt und wie werden diese Daten verwendet? Wie lange werden die Daten aufbewahrt?"
+"Overall, the privacy policy is clear, although at times lacking in detail. For example, how do they interact with social media? Why are they scrapping so much detail from one's address book and how "
+"do they use that data? How long do they retain data?"
 msgstr ""
 
 msgctxt "uses_encryption_helptext"
@@ -85,7 +85,7 @@ msgid "They do not appear to be part of bug bounty program"
 msgstr "Sie sind anscheinend nicht Teil eines Bug-Bounty-Programms."
 
 msgctxt "privacy_policy_helptext"
-msgid "Die Datenschutzrichtlinie von HER beinhaltet keine genauen Informationen in Bezug auf Sicherheit."
+msgid "HER's Privacy Policy doesn't include comprehensive details on safety"
 msgstr ""
 
 msgctxt "personal_data_collected"
