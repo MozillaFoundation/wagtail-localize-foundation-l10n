@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-15 10:04:03.566013+00:00\n"
-"PO-Revision-Date: 2021-07-19 12:41+0000\n"
+"PO-Revision-Date: 2021-07-22 08:37+0000\n"
 "Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -126,6 +126,8 @@ msgid ""
 "Users can request a copy of their personal information, for it to be deleted, or for users based in California to request a notice disclosing the categories of personal information that OKCupid has "
 "shared with third parties for their direct marketing purposes."
 msgstr ""
+"Les utilisateurs et utilisatrices peuvent demander une copie de leurs informations personnelles et leur suppression. Les habitant·e·s de Californie peuvent demander un rapport décrivant les "
+"catégories d’informations personnelles partagées par OKCupid avec des tiers à des fins publicitaires."
 
 msgctxt "track_record_details"
 msgid ""
