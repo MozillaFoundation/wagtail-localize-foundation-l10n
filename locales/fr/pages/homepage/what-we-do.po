@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-06-21 16:13:37.883925+00:00\n"
-"PO-Revision-Date: 2021-06-30 09:46+0000\n"
+"PO-Revision-Date: 2021-07-22 12:34+0000\n"
 "Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -253,7 +253,7 @@ msgstr "<a id=\"a1\">Lire le livre blanc →</a>"
 
 msgctxt "body.f2ece2ca-bb5e-40bc-98d5-56539c649416.label"
 msgid "See our Insights hub"
-msgstr ""
+msgstr "Voir notre section Insights"
 
 msgctxt "body.f2ece2ca-bb5e-40bc-98d5-56539c649416.URL"
 msgid "https://foundation.mozilla.org/insights/"
