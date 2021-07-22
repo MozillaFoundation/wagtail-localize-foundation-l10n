@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-06-23 10:01:01.148416+00:00\n"
-"PO-Revision-Date: 2021-07-22 08:43+0000\n"
+"PO-Revision-Date: 2021-07-22 13:06+0000\n"
 "Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -75,7 +75,7 @@ msgstr "Internet n’est rien sans les internautes"
 
 msgctxt "h2"
 msgid "The Internet starts with us"
-msgstr ""
+msgstr "Internet, nous connaissons bien"
 
 msgctxt "h2Subheader"
 msgid "From signing a petition, contributing to a project or attending an event, people can save the Internet. Here are ways to get involved."
