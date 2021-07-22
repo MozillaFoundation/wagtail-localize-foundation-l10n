@@ -1,17 +1,25 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-22 13:36:36.961942+00:00\n"
+"PO-Revision-Date: 2021-07-22 13:45+0000\n"
+"Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: e0b448a1-b670-45f4-8268-55e68f264919\n"
 
 msgctxt "name"
 msgid "Advocacy"
-msgstr ""
+msgstr "Militantisme"
 
 msgctxt "intro"
 msgid ""
 "A healthy internet requires an active, global community.  <a id=\"a1\">Mozilla’s advocacy work</a> brings people together from around the world to educate and fight for privacy, inclusion, literacy,"
 " and all principles of a healthy internet. A healthy internet supports the voices of people, including you."
 msgstr ""
+"Pour un Internet sain, il faut une communauté active et internationale. <a id=\"a1\">Les campagnes menées par Mozilla</a> rassemblent des individus originaires des quatre coins du monde dans un but "
+"de sensibilisation et de défense de la confidentialité, de l’éducation et de tous les principes qui rendent Internet meilleur. Et un Internet sain laisse s’exprimer toutes les voix, y compris la "
+"vôtre."
