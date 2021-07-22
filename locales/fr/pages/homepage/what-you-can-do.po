@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-06-23 10:01:01.148416+00:00\n"
-"PO-Revision-Date: 2021-07-13 16:33+0000\n"
+"PO-Revision-Date: 2021-07-22 08:43+0000\n"
 "Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -22,6 +22,8 @@ msgstr "Lettre ouverte à Venmo : respectez la vie privée par défaut"
 msgctxt "ctaHeroSubhead"
 msgid "Venmo doesn't allow users to set their friend lists to private. Our ask to Venmo is clear: offer both private friends lists and transactions settings that aren't toggled to public by default."
 msgstr ""
+"Venmo ne permet pas aux utilisateurs et utilisatrices de définir leurs listes d’ami·e·s comme privées. Notre demande à Venmo est claire : proposez à la fois des listes d’ami·e·s privées et des "
+"paramètres de transaction qui ne soient pas définis sur public par défaut."
 
 msgctxt "ctaButtonTitle"
 msgid "Sign the Letter"
@@ -88,6 +90,8 @@ msgid ""
 "Saving the Internet needs work and celebration. MozFest is Mozilla’s yearly gathering to share, make, teach and learn, the important work being done around the world for Internet Health. With "
 "dialogues, fairs and fun, we celebrate an open web."
 msgstr ""
+"Sauver Internet demande du travail mais aussi de s’amuser. Le MozFest est le rassemblement annuel de Mozilla pour partager, créer, enseigner et apprendre autour des efforts menés dans le monde "
+"entier pour la bonne santé d’Internet. Nous fêtons le Web ouvert avec des discussions, des foires et du fun."
 
 msgctxt "cta4.a577abd7-4bea-408d-93a1-6acb40ab22be.buttonTitle"
 msgid "Explore MozFest"
