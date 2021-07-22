@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-15 10:04:06.404431+00:00\n"
-"PO-Revision-Date: 2021-07-21 12:46+0000\n"
+"PO-Revision-Date: 2021-07-22 12:43+0000\n"
 "Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -139,6 +139,8 @@ msgid ""
 "In 2018, it was revealed Grindr allowed other companies access to user HIV status and location data. In addition, Grindr is being investigated by the Norwegian Data Protection Authority for "
 "potentially exposing user data to advertisers in the past."
 msgstr ""
+"En 2018, il a été révélé que Grindr permettait à d’autres entreprises d’accéder au statut sérologique au VIH et à la localisation de ses membres. De plus, Grindr fait l’objet d’une enquête par "
+"l’autorité norvégienne de protection des données pour avoir potentiellement partagé des données de ses membres avec des annonceurs dans le passé."
 
 msgctxt "ai_helptext"
 msgid "Grindr uses AI for things such as detecting and removing spammers &amp; non-compliant images (see Privacy Policy). However, they say they do not use AI in relation to matching people."
