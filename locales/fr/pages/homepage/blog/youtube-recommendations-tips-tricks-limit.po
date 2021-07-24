@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-16 08:54:56.067416+00:00\n"
-"PO-Revision-Date: 2021-07-24 16:27+0000\n"
+"PO-Revision-Date: 2021-07-24 16:28+0000\n"
 "Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -159,7 +159,7 @@ msgstr ""
 
 msgctxt "body.527f1165-17fd-4a81-9fca-61ad512fd025.url"
 msgid "https://www.youtube.com/embed/r98HbsaN9nw"
-msgstr "https://www.youtube.com/embed/r98HbsaN9nw"
+msgstr "https://www.youtube.com/embed/r98HbsaN9nw?rel=0&cc_load_policy=1&cc_lang_pref=fr"
 
 msgctxt "body.527f1165-17fd-4a81-9fca-61ad512fd025.caption"
 msgid "Why Does YouTube Recommend Conspiracy Theories? Mozilla Explains: Filter Bubbles"
