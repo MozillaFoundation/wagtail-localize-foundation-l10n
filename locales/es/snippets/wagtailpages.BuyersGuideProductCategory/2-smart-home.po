@@ -1,14 +1,19 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-08-09 14:36:37.355722+00:00\n"
+"PO-Revision-Date: 2021-08-09 15:15+0000\n"
+"Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: d1aaf0f4-28d0-44f2-a8b5-0e151c1a9e3d\n"
 
 msgctxt "name"
 msgid "Smart Home"
-msgstr ""
+msgstr "Casa inteligente"
 
 msgctxt "description"
 msgid ""

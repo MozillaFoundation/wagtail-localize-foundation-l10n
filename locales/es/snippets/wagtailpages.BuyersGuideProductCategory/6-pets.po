@@ -1,14 +1,19 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-08-09 14:36:37.381448+00:00\n"
+"PO-Revision-Date: 2021-08-09 15:16+0000\n"
+"Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 052fbf57-af04-4a2f-a10a-b84cd7182ac1\n"
 
 msgctxt "name"
 msgid "Pets"
-msgstr ""
+msgstr "Mascotas"
 
 msgctxt "description"
 msgid ""

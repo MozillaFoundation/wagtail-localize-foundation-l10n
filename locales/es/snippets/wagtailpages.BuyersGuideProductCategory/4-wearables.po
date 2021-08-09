@@ -1,14 +1,19 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-08-09 14:36:37.808315+00:00\n"
+"PO-Revision-Date: 2021-08-09 15:16+0000\n"
+"Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 108f637e-9835-47a4-a4d5-aeaad203344c\n"
 
 msgctxt "name"
 msgid "Wearables"
-msgstr ""
+msgstr "Wearables"
 
 msgctxt "description"
 msgid ""

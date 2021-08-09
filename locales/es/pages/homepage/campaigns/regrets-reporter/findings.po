@@ -1,14 +1,19 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-08-06 07:38:09.211842+00:00\n"
+"PO-Revision-Date: 2021-08-09 15:16+0000\n"
+"Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: f64372d5-f08b-4d17-a814-16169c32d415\n"
 
 msgctxt "title"
 msgid "YouTube Regrets"
-msgstr ""
+msgstr "Contrariedades en YouTube"
 
 msgctxt "slug"
 msgid "findings"
@@ -16,4 +21,4 @@ msgstr ""
 
 msgctxt "search_description"
 msgid "Mozilla and 37,380 YouTube users conducted a study to better understand harmful YouTube recommendations. This is what we learned."
-msgstr ""
+msgstr "Con la participación de 37 380 usuarios de YouTube, Mozilla ha llevado a cabo un estudio para comprender mejor las recomendaciones lamentables en YouTube. He aquí lo que hemos descubierto."
