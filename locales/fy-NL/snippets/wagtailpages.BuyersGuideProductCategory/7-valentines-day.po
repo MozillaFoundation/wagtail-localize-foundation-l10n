@@ -1,14 +1,19 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-08-09 14:36:38.475512+00:00\n"
+"PO-Revision-Date: 2021-08-09 15:24+0000\n"
+"Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
+"Language: fy_NL\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 85610521-59bb-4e43-8118-9a3d8ef6af45\n"
 
 msgctxt "name"
 msgid "Valentine's Day"
-msgstr ""
+msgstr "Valentynsdei"
 
 msgctxt "description"
 msgid ""
