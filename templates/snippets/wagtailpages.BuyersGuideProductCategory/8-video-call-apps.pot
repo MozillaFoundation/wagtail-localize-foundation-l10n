@@ -1,0 +1,16 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2021-08-09 14:36:39.840835+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+
+msgctxt "name"
+msgid "Video Call Apps"
+msgstr ""
+
+msgctxt "description"
+msgid ""
+"More and more people now rely on video call apps to stay connected during the coronavirus pandemic. We reviewed the privacy and security of some of the most popular apps to help you make smart "
+"decisions on what to use to work remotely, chat with friends and family, and connect with your doctor."
+msgstr ""

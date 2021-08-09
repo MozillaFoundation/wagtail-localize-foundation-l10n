@@ -1,0 +1,17 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2021-08-09 14:36:39.925846+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 75d6fb4f-a64e-413c-984a-f32aafca254b\n"
+
+msgctxt "name"
+msgid "Health &amp; Exercise"
+msgstr ""
+
+msgctxt "description"
+msgid ""
+"The fitness trackers and connected exercise equipment on this list are powerful tools for measuring and improving our health. As every move we make is tracked more and more, the threat someone could"
+" learn very personal information about us becomes a real concern."
+msgstr ""

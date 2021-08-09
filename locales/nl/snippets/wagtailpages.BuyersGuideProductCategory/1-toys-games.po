@@ -1,0 +1,17 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2021-08-09 14:36:38.858903+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 57d5baab-c18d-47a1-bfe8-5a3a508654b3\n"
+
+msgctxt "name"
+msgid "Toys &amp; Games"
+msgstr ""
+
+msgctxt "description"
+msgid ""
+"Connected toys and drones are fun to play with. They also could have a microphone listening in, sensors collecting lots of data, and can be susceptible to hacks—especially drones. The devices we "
+"give to our children should have strong security and privacy standards."
+msgstr ""

@@ -1,0 +1,17 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2021-08-09 14:36:38.833774+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 618f93d1-fd87-4797-a5f9-444d3b12f672\n"
+
+msgctxt "name"
+msgid "Wearables"
+msgstr ""
+
+msgctxt "description"
+msgid ""
+"It’s the new frontier of cutting-edge technology: Well-designed, functional devices that track your steps, monitor your heart rate, or help manage pain. It’s important to remember wearable devices "
+"also collect and analyze lots of data about your body and your daily movements."
+msgstr ""

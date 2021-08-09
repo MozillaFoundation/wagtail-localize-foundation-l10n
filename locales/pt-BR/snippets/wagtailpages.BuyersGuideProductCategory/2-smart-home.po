@@ -1,0 +1,17 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2021-08-09 14:36:39.980026+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 6f44729f-83ab-4e65-9462-a1f3c4f9d53c\n"
+
+msgctxt "name"
+msgid "Smart Home"
+msgstr ""
+
+msgctxt "description"
+msgid ""
+"In our brave new world of connected homes, a camera can connect to your doorbell to stop thieves while another camera lives in the nursery monitoring your baby. When companies don’t take steps to "
+"secure those devices or aren’t open about how they share sensitive data, we deserve to know."
+msgstr ""

@@ -1,0 +1,17 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2021-08-09 14:36:39.475080+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 7483ef4e-c3b0-4203-9ff0-41fd2ec8f89e\n"
+
+msgctxt "name"
+msgid "Entertainment"
+msgstr ""
+
+msgctxt "description"
+msgid ""
+"Gaming systems, smart TVs, wireless headphones: They’re common fixtures in our lives and our homes these days. And when these smart TVs and headphones are also in the business of selling their "
+"customers’ data to advertisers and marketers, we all should start asking more questions."
+msgstr ""

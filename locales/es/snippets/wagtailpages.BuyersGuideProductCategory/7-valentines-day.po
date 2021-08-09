@@ -1,0 +1,17 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2021-08-09 14:36:37.580814+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: c7b07937-257d-4c5c-a4a0-fcc92c0ff213\n"
+
+msgctxt "name"
+msgid "Valentine's Day"
+msgstr ""
+
+msgctxt "description"
+msgid ""
+"Romantic products for Valentine’s Day connect us in the bedroom and beyond. Because so much of the data these devices collect is deeply personal, it must remain private and secure. Sex toys are "
+"great for promoting intimacy and sexual health. Those same devices aren’t so fun if hacked."
+msgstr ""

@@ -1,0 +1,17 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2021-08-09 14:36:38.239307+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 8df9b068-ae1a-4fcf-9e45-b77edd00ae27\n"
+
+msgctxt "name"
+msgid "Pets"
+msgstr ""
+
+msgctxt "description"
+msgid ""
+"When it comes to our pets, smart cameras, automatic food dispensers, and pet trackers are just a few of the tech products on the market. As people increasingly rely on smart devices to track and "
+"feed our furry friends, we need to ensure companies have done their homework around privacy and security."
+msgstr ""

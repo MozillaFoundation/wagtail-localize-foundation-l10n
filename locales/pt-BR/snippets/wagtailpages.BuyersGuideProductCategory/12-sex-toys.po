@@ -1,0 +1,15 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2021-08-09 14:36:40.018268+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: e6e315b9-0fff-4081-9dde-0dd128db9f20\n"
+
+msgctxt "name"
+msgid "Sex Toys"
+msgstr ""
+
+msgctxt "description"
+msgid "Connected sex toy privacy and security"
+msgstr ""
