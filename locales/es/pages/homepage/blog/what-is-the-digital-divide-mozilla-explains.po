@@ -1,18 +1,23 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-08-06 07:38:09.017056+00:00\n"
+"PO-Revision-Date: 2021-08-09 09:56+0000\n"
+"Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 1995c6da-cd3d-49cc-be7c-00bbdf2c7f53\n"
 
 msgctxt "seo_title"
 msgid "What is the digital divide? Mozilla Explains."
-msgstr ""
+msgstr "¿Qué es la brecha digital? Mozilla Explica"
 
 msgctxt "search_description"
 msgid "What is the digital divide? And can we bridge it? Alice Munyua explains."
-msgstr ""
+msgstr "¿Qué es la brecha digital? ¿Podemos cerrarla? Alice Munyua explica."
 
 msgctxt "body.508befa4-2269-49c0-9968-2cc01d089081"
 msgid ""
@@ -20,14 +25,17 @@ msgid ""
 "not. As we outlined in our Internet Health Report, <a id=\"a1\">nearly half of the world is still offline</a>, meaning half of the world is still unable to benefit from the digital age and the "
 "digital economy."
 msgstr ""
+"No, ¡no es un nuevo problema matemático! La brecha digital es la distancia que existe entre las personas del mundo que tienen acceso a ordenadores, dispositivos móviles e internet, y las que no. "
+"Como describimos en nuestro Informe de la Salud de Internet, <a id=\"a1\">casi la mitad del mundo aún está desconectada</a>, lo que significa que la mitad del mundo aún no puede beneficiarse de la "
+"era digital y de la economía digital."
 
 msgctxt "body.508befa4-2269-49c0-9968-2cc01d089081"
 msgid "To learn more about the Digital Divide, watch this video with <a id=\"a1\">Alice Munyua</a>, director of Mozilla's Africa Mradi, or read on below."
-msgstr ""
+msgstr "Para obtener más información sobre la brecha digital, mira este vídeo con <a id=\"a1\">Alice Munyua</a>, directora de «Africa Mradi» de Mozilla, o sigue leyendo este artículo."
 
 msgctxt "body.54c8a975-a9be-4a76-a481-c6b6410e8272.url"
 msgid "https://www.youtube.com/embed/Y2hEiMOgc1g"
-msgstr ""
+msgstr "https://www.youtube.com/embed/Y2hEiMOgc1g?rel=0&cc_load_policy=1&cc_lang_pref=es"
 
 msgctxt "body.58a935a7-46a5-49f5-b9d2-787284e500ad"
 msgid ""
