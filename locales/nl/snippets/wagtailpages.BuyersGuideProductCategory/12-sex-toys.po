@@ -1,14 +1,19 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-08-09 14:36:38.790011+00:00\n"
+"PO-Revision-Date: 2021-08-09 15:21+0000\n"
+"Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
+"Language: nl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 7ed51eff-af10-4aa4-b265-46ace75901b9\n"
 
 msgctxt "name"
 msgid "Sex Toys"
-msgstr ""
+msgstr "Seksspeeltjes"
 
 msgctxt "description"
 msgid "Connected sex toy privacy and security"
