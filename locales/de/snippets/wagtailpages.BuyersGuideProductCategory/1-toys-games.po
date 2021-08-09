@@ -1,14 +1,19 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-08-09 14:36:37.194079+00:00\n"
+"PO-Revision-Date: 2021-08-09 16:09+0000\n"
+"Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
+"Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 04a9940e-ccf6-4353-abee-cae5f6cdc9ba\n"
 
 msgctxt "name"
 msgid "Toys &amp; Games"
-msgstr ""
+msgstr "Spielzeug & Spiele"
 
 msgctxt "description"
 msgid ""
