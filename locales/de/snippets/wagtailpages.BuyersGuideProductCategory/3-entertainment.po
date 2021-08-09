@@ -1,4 +1,4 @@
-# 
+#
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-08-09 14:36:36.804919+00:00\n"
@@ -14,9 +14,3 @@ msgstr ""
 msgctxt "name"
 msgid "Entertainment"
 msgstr "Unterhaltung"
-
-msgctxt "description"
-msgid ""
-"Gaming systems, smart TVs, wireless headphones: They’re common fixtures in our lives and our homes these days. And when these smart TVs and headphones are also in the business of selling their "
-"customers’ data to advertisers and marketers, we all should start asking more questions."
-msgstr ""

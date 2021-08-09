@@ -1,4 +1,4 @@
-# 
+#
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-08-09 14:36:37.072648+00:00\n"
@@ -14,9 +14,3 @@ msgstr ""
 msgctxt "name"
 msgid "Wearables"
 msgstr "Wearables"
-
-msgctxt "description"
-msgid ""
-"It’s the new frontier of cutting-edge technology: Well-designed, functional devices that track your steps, monitor your heart rate, or help manage pain. It’s important to remember wearable devices "
-"also collect and analyze lots of data about your body and your daily movements."
-msgstr ""

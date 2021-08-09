@@ -14,7 +14,3 @@ msgstr ""
 msgctxt "name"
 msgid "Sex Toys"
 msgstr "Brinquedos sexuais"
-
-msgctxt "description"
-msgid "Connected sex toy privacy and security"
-msgstr ""

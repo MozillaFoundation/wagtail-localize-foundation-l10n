@@ -1,4 +1,4 @@
-# 
+#
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-08-09 14:36:36.909752+00:00\n"
@@ -14,9 +14,3 @@ msgstr ""
 msgctxt "name"
 msgid "Health &amp; Exercise"
 msgstr "Gesundheit & Bewegung"
-
-msgctxt "description"
-msgid ""
-"The fitness trackers and connected exercise equipment on this list are powerful tools for measuring and improving our health. As every move we make is tracked more and more, the threat someone could"
-" learn very personal information about us becomes a real concern."
-msgstr ""

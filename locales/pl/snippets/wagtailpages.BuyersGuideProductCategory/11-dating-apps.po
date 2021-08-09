@@ -9,7 +9,3 @@ msgstr ""
 msgctxt "name"
 msgid "Dating Apps"
 msgstr ""
-
-msgctxt "description"
-msgid "Dating App Privacy &amp; Security"
-msgstr ""

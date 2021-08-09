@@ -1,47 +1,7 @@
 locales = [ "de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR",]
 [[paths]]
-reference = "templates/pages/homepage/blog/mozilla-investigation-youtube-algorithm-recommends-videos-that-violate-the-platforms-very-own-policies.pot"
-l10n = "locales/{locale}/pages/homepage/blog/mozilla-investigation-youtube-algorithm-recommends-videos-that-violate-the-platforms-very-own-policies.po"
-locales = [ "de",]
-
-[[paths]]
 reference = "templates/snippets/wagtailpages.BuyersGuideProductCategory/11-dating-apps.pot"
 l10n = "locales/{locale}/snippets/wagtailpages.BuyersGuideProductCategory/11-dating-apps.po"
-locales = [ "de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR",]
-
-[[paths]]
-reference = "templates/snippets/wagtailpages.BuyersGuideProductCategory/6-pets.pot"
-l10n = "locales/{locale}/snippets/wagtailpages.BuyersGuideProductCategory/6-pets.po"
-locales = [ "de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR",]
-
-[[paths]]
-reference = "templates/snippets/wagtailpages.BuyersGuideProductCategory/7-valentines-day.pot"
-l10n = "locales/{locale}/snippets/wagtailpages.BuyersGuideProductCategory/7-valentines-day.po"
-locales = [ "de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR",]
-
-[[paths]]
-reference = "templates/pages/homepage/blog/what-is-the-digital-divide-mozilla-explains.pot"
-l10n = "locales/{locale}/pages/homepage/blog/what-is-the-digital-divide-mozilla-explains.po"
-locales = [ "de", "es", "fr", "pl", "pt-BR",]
-
-[[paths]]
-reference = "templates/snippets/wagtailpages.BuyersGuideProductCategory/3-entertainment.pot"
-l10n = "locales/{locale}/snippets/wagtailpages.BuyersGuideProductCategory/3-entertainment.po"
-locales = [ "de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR",]
-
-[[paths]]
-reference = "templates/pages/homepage/blog/who-cares-about-my-data-mozilla-explains-data-protection.pot"
-l10n = "locales/{locale}/pages/homepage/blog/who-cares-about-my-data-mozilla-explains-data-protection.po"
-locales = [ "de", "es", "fr", "pl", "pt-BR",]
-
-[[paths]]
-reference = "templates/snippets/wagtailpages.BuyersGuideProductCategory/12-sex-toys.pot"
-l10n = "locales/{locale}/snippets/wagtailpages.BuyersGuideProductCategory/12-sex-toys.po"
-locales = [ "de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR",]
-
-[[paths]]
-reference = "templates/snippets/wagtailpages.BuyersGuideProductCategory/5-health-exercise.pot"
-l10n = "locales/{locale}/snippets/wagtailpages.BuyersGuideProductCategory/5-health-exercise.po"
 locales = [ "de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR",]
 
 [[paths]]
@@ -55,9 +15,34 @@ l10n = "locales/{locale}/snippets/wagtailpages.BuyersGuideProductCategory/8-vide
 locales = [ "de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR",]
 
 [[paths]]
-reference = "templates/pages/homepage/campaigns/regrets-reporter/findings.pot"
-l10n = "locales/{locale}/pages/homepage/campaigns/regrets-reporter/findings.po"
-locales = [ "de", "es", "fr", "nl", "pt-BR",]
+reference = "templates/snippets/wagtailpages.BuyersGuideProductCategory/10-best-of.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.BuyersGuideProductCategory/10-best-of.po"
+locales = [ "de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR",]
+
+[[paths]]
+reference = "templates/snippets/wagtailpages.BuyersGuideProductCategory/7-valentines-day.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.BuyersGuideProductCategory/7-valentines-day.po"
+locales = [ "de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR",]
+
+[[paths]]
+reference = "templates/snippets/wagtailpages.BuyersGuideProductCategory/1-toys-games.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.BuyersGuideProductCategory/1-toys-games.po"
+locales = [ "de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR",]
+
+[[paths]]
+reference = "templates/pages/homepage/blog/who-cares-about-my-data-mozilla-explains-data-protection.pot"
+l10n = "locales/{locale}/pages/homepage/blog/who-cares-about-my-data-mozilla-explains-data-protection.po"
+locales = [ "de", "es", "fr", "pl", "pt-BR",]
+
+[[paths]]
+reference = "templates/pages/homepage/blog/what-is-the-digital-divide-mozilla-explains.pot"
+l10n = "locales/{locale}/pages/homepage/blog/what-is-the-digital-divide-mozilla-explains.po"
+locales = [ "de", "es", "fr", "pl", "pt-BR",]
+
+[[paths]]
+reference = "templates/snippets/wagtailpages.BuyersGuideProductCategory/3-entertainment.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.BuyersGuideProductCategory/3-entertainment.po"
+locales = [ "de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR",]
 
 [[paths]]
 reference = "templates/snippets/wagtailpages.BuyersGuideProductCategory/4-wearables.pot"
@@ -65,8 +50,18 @@ l10n = "locales/{locale}/snippets/wagtailpages.BuyersGuideProductCategory/4-wear
 locales = [ "de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR",]
 
 [[paths]]
-reference = "templates/snippets/wagtailpages.BuyersGuideProductCategory/10-best-of.pot"
-l10n = "locales/{locale}/snippets/wagtailpages.BuyersGuideProductCategory/10-best-of.po"
+reference = "templates/snippets/wagtailpages.BuyersGuideProductCategory/5-health-exercise.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.BuyersGuideProductCategory/5-health-exercise.po"
+locales = [ "de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR",]
+
+[[paths]]
+reference = "templates/pages/homepage/campaigns/regrets-reporter/findings.pot"
+l10n = "locales/{locale}/pages/homepage/campaigns/regrets-reporter/findings.po"
+locales = [ "de", "es", "fr", "nl", "pt-BR",]
+
+[[paths]]
+reference = "templates/snippets/wagtailpages.BuyersGuideProductCategory/13-fitness-trackers.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.BuyersGuideProductCategory/13-fitness-trackers.po"
 locales = [ "de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR",]
 
 [[paths]]
@@ -75,8 +70,13 @@ l10n = "locales/{locale}/snippets/wagtailpages.BuyersGuideProductCategory/9-home
 locales = [ "de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR",]
 
 [[paths]]
-reference = "templates/snippets/wagtailpages.BuyersGuideProductCategory/1-toys-games.pot"
-l10n = "locales/{locale}/snippets/wagtailpages.BuyersGuideProductCategory/1-toys-games.po"
+reference = "templates/snippets/wagtailpages.BuyersGuideProductCategory/6-pets.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.BuyersGuideProductCategory/6-pets.po"
+locales = [ "de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR",]
+
+[[paths]]
+reference = "templates/snippets/wagtailpages.BuyersGuideProductCategory/12-sex-toys.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.BuyersGuideProductCategory/12-sex-toys.po"
 locales = [ "de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR",]
 
 [[paths]]
@@ -87,5 +87,10 @@ locales = [ "de",]
 [[paths]]
 reference = "templates/pages/homepage/campaigns/german-election.pot"
 l10n = "locales/{locale}/pages/homepage/campaigns/german-election.po"
+locales = [ "de",]
+
+[[paths]]
+reference = "templates/pages/homepage/blog/mozilla-investigation-youtube-algorithm-recommends-videos-that-violate-the-platforms-very-own-policies.pot"
+l10n = "locales/{locale}/pages/homepage/blog/mozilla-investigation-youtube-algorithm-recommends-videos-that-violate-the-platforms-very-own-policies.po"
 locales = [ "de",]
 

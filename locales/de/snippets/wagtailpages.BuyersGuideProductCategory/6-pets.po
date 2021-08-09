@@ -1,4 +1,4 @@
-# 
+#
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-08-09 14:36:36.671297+00:00\n"
@@ -14,9 +14,3 @@ msgstr ""
 msgctxt "name"
 msgid "Pets"
 msgstr "Haustiere"
-
-msgctxt "description"
-msgid ""
-"When it comes to our pets, smart cameras, automatic food dispensers, and pet trackers are just a few of the tech products on the market. As people increasingly rely on smart devices to track and "
-"feed our furry friends, we need to ensure companies have done their homework around privacy and security."
-msgstr ""

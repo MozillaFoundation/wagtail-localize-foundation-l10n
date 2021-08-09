@@ -1,0 +1,11 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2021-08-09 16:18:27.294463+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 2e568862-7671-411b-93c1-d5321011074a\n"
+
+msgctxt "name"
+msgid "Fitness Trackers"
+msgstr ""
